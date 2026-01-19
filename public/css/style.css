@@ -218,7 +218,7 @@ body {
     color: #4059a8;
   }
   .color-lightblue {
-    color: #0dcaf0;
+    color: #42c3da;
   }
   .color-white {
     color: white;
@@ -229,8 +229,26 @@ body {
   .bg-darkblue {
     background-color: #4059a8;
   }
+  .color-darkpurple {
+    color: #9c649a;
+  }
+  .color-lightpurple {
+    color: #cf8dbd;
+  }
+  .bg-lightblue {
+    background-color: #42c3da;
+  }
+  .bg-lightpurple1 {
+    background-color: #cf8dbd;
+  }
   .bg-lightpurple {
-    background-color: #e7e7fb;
+    background-color: #c785b5;
+  }
+  .bg-darkpurple {
+    background-color: #9c649a;
+  }
+  .color-dotpurple {
+    color: #bf69a8;
   }
 
   /** svg colors **/

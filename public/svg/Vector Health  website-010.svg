@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Ñëîé_2" data-name="Ñëîé 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3a4284;
+        stroke-miterlimit: 10;
+        stroke-width: 26.6px;
+      }
+    </style>
+  </defs>
+  <g id="training">
+    <g id="g_135" data-name="g 135">
+      <g id="g_136" data-name="g 136">
+        <g id="g_137" data-name="g 137">
+          <g id="g_138" data-name="g 138">
+            <path id="path_104" data-name="path 104" class="cls-1" d="M313.62,350.4c-40.56,40.58-106.35,40.58-146.95,0-20.26-20.29-53.15-20.29-73.46,0-20.26,20.29-20.26,53.18,0,73.47,81.17,81.15,212.74,81.15,293.87,0l-73.46-73.47Z"/>
+          </g>
+          <g id="g_139" data-name="g 139">
+            <path id="path_105" data-name="path 105" class="cls-1" d="M443.38,698.84c0,28.69-23.27,51.95-51.95,51.95s-51.96-23.26-51.96-51.95,23.27-51.95,51.96-51.95,51.95,23.26,51.95,51.95Z"/>
+          </g>
+          <g id="g_140" data-name="g 140">
+            <path id="path_106" data-name="path 106" class="cls-1" d="M651.2,698.84c0,28.69-23.27,51.95-51.96,51.95s-51.95-23.26-51.95-51.95,23.27-51.95,51.95-51.95,51.96,23.26,51.96,51.95Z"/>
+          </g>
+          <g id="g_141" data-name="g 141">
+            <path id="path_107" data-name="path 107" class="cls-1" d="M858.97,698.84c0,28.69-23.27,51.95-51.95,51.95s-51.96-23.26-51.96-51.95,23.27-51.95,51.96-51.95,51.95,23.26,51.95,51.95Z"/>
+          </g>
+          <g id="g_142" data-name="g 142">
+            <path id="path_108" data-name="path 108" class="cls-1" d="M495.33,906.63h-209.55c0-57.15,48.5-103.9,105.64-103.9s103.91,46.76,103.91,103.9Z"/>
+          </g>
+          <g id="g_143" data-name="g 143">
+            <path id="path_109" data-name="path 109" class="cls-1" d="M703.15,906.63h-207.82c0-57.15,46.77-103.9,103.91-103.9s103.91,46.76,103.91,103.9Z"/>
+          </g>
+          <g id="g_144" data-name="g 144">
+            <path id="path_110" data-name="path 110" class="cls-1" d="M912.66,906.63h-209.5c0-57.15,46.72-103.9,103.87-103.9s105.64,46.76,105.64,103.9Z"/>
+          </g>
+          <g id="g_145" data-name="g 145">
+            <path id="path_111" data-name="path 111" class="cls-1" d="M181.92,231.29c0,28.69-23.27,51.95-51.96,51.95s-51.96-23.26-51.96-51.95,23.27-51.95,51.96-51.95,51.96,23.26,51.96,51.95Z"/>
+          </g>
+          <g id="g_146" data-name="g 146">
+            <path id="path_112" data-name="path 112" class="cls-1" d="M181.92,476.44v430.19h-103.91V387.14"/>
+          </g>
+          <g id="g_147" data-name="g 147">
+            <path id="path_113" data-name="path 113" class="cls-1" d="M285.78,370.3V127.39h626.87v415.6H285.78v-63.3"/>
+          </g>
+          <g id="g_148" data-name="g 148">
+            <path id="path_114" data-name="path 114" class="cls-1" d="M344.08,380.83l149.53-149.54"/>
+          </g>
+          <g id="g_149" data-name="g 149">
+            <path id="path_115" data-name="path 115" class="cls-1" d="M781.04,257.26l-129.84,129.87-51.96-51.95-103.91,103.9"/>
+          </g>
+          <g id="g_150" data-name="g 150">
+            <path id="path_116" data-name="path 116" class="cls-1" d="M677.17,257.26h103.87v103.9"/>
+          </g>
+          <g id="g_151" data-name="g 151">
+            <path id="path_117" data-name="path 117" class="cls-1" d="M78.01,594.94h103.91"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

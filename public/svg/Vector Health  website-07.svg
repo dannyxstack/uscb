@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Ñëîé_2" data-name="Ñëîé 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3a4284;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 23.13px;
+      }
+    </style>
+  </defs>
+  <g id="teacher">
+    <g id="g_171" data-name="g 171">
+      <g id="g_172" data-name="g 172">
+        <g id="g_173" data-name="g 173">
+          <g id="g_174" data-name="g 174">
+            <path id="path_134" data-name="path 134" class="cls-1" d="M795.69,286.98v313.23H241.49V237.28c0-12.47,10.14-22.59,22.59-22.59h302.7"/>
+          </g>
+          <g id="g_175" data-name="g 175">
+            <path id="path_135" data-name="path 135" class="cls-1" d="M157.41,783.15l84.12-182.94h554.17l84.04,182.94c6.63,17.04-5.94,35.42-24.25,35.42H181.62c-18.27,0-30.84-18.38-24.21-35.42Z"/>
+          </g>
+          <g id="g_176" data-name="g 176">
+            <path id="path_136" data-name="path 136" class="cls-1" d="M410.18,818.56l30.11-97.88h156.59l30.11,97.88h-216.81Z"/>
+          </g>
+          <g id="g_177" data-name="g 177">
+            <path id="path_137" data-name="path 137" class="cls-1" d="M446.31,371.31c0,26.62-21.59,48.19-48.19,48.19s-48.19-21.57-48.19-48.19,21.59-48.19,48.19-48.19,48.19,21.57,48.19,48.19Z"/>
+          </g>
+          <g id="g_178" data-name="g 178">
+            <path id="path_138" data-name="path 138" class="cls-1" d="M470.4,491.78c0-39.92-32.34-72.28-72.28-72.28s-72.28,32.36-72.28,72.28v24.09h144.57v-24.09Z"/>
+          </g>
+          <g id="g_179" data-name="g 179">
+            <path id="path_139" data-name="path 139" class="cls-1" d="M857.41,92.72h-268.04c-12.49,0-22.59,10.12-22.59,22.59v231.91l96.38-60.24h194.26c12.49,0,22.59-10.11,22.59-22.59V115.31c0-12.48-10.1-22.59-22.59-22.59Z"/>
+          </g>
+          <g id="g_180" data-name="g 180">
+            <path id="path_140" data-name="path 140" class="cls-1" d="M663.16,190.6h120.47"/>
+          </g>
+          <g id="g_181" data-name="g 181">
+            <path id="path_141" data-name="path 141" class="cls-1" d="M566.78,431.55h84.31"/>
+          </g>
+          <g id="g_182" data-name="g 182">
+            <path id="path_142" data-name="path 142" class="cls-1" d="M566.78,515.88h132.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
