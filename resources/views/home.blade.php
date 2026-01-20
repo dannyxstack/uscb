@@ -17,15 +17,15 @@
         CAN <span class="color-lightblue">ACHIEVE</span>
       </h1>
       <div class="text-start">
-        <a href="/allcourses" class="btn btn-primary btn-lg footer-start-here-btn fs-4 mt-3 bg-darkblue">Start now</a>
+        <a href="/allcourses" class="btn btn-primary btn-lg footer-start-here-btn fs-4 mt-3 bg-lightblue">Start now</a>
       </div>
 
       <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
     </div>
   </section>
 
-  <section class="bg-lightblue">
-    <div class="bg-darkblue-round-right-bottom">
+  <section class="bg-darkpurple">
+    <div class="bg-white-round-right-bottom">
       <div class="container">
         <div class="row text-center">
 
@@ -33,13 +33,13 @@
         <div class="row ">
           <div class="col-md-12" style="padding-top: 100px;">
             <h2 class="color-lightblue">Start Exploring</h2>
-            <p class="color-white fs-3" >Discover the full range of courses at United Skills Group</p>
-            <p class="color-white fs-4">Your educational path begins here, find the perfect course for you.</p>
+            <p class="fs-3">Discover the full range of courses at United Skills Group</p>
+            <p class="fs-4">Your educational path begins here, find the perfect course for you.</p>
           </div>
         </div>
 
         <!-- 示例：校园图片轮播 -->
-        <div id="courseCarousel1" class="carousel slide">
+        <div id="courseCarousel1" class="carousel slide text-center">
           <!-- 轮播图片 -->
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -49,12 +49,12 @@
 
                     <div class="img-cover-container">
                       <a href="/allcourses#business">
-                        <img src="svg/Vector Header-09.svg" class="">
+                        <img src="svg/Vector Health  website-19.svg" class="">
                       </a>
                     </div>
-                    <div class="fs-2 color-darkblue ps-5">
+                    <div class="fs-2">
                       <a href="/allcourses#business">
-                        Business & Management
+                        Business
                       </a>
                     </div>
                   </div>
@@ -63,56 +63,10 @@
                   <div class="carousel-img-item bg-white">
                     <div class="img-cover-container">
                       <a href="/allcourses#automotive">
-                        <img src="svg/Vector Header-04.svg" class="">
+                        <img src="svg/Vector Health  website-04.svg" class="">
                       </a>
                     </div>
-                    <div class="fs-2 color-darkblue ps-5 pt-3">
-                      <a href="/allcourses#automotive">
-                        Automotive
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#cookery">
-                        <img src="svg/Vector Header-02.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 color-darkblue ps-5">
-                      <a href="/allcourses#cookery">
-                        Cookery & Hospitality
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#aged-care">
-                        <img src="svg/Vector Header-03.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 color-darkblue ps-5">
-                      <a href="/allcourses#aged-care">
-                        Aged Care & Community Services
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="row ">
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#automotive">
-                        <img src="svg/Vector Header-04.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 color-darkblue ps-5 pt-3">
+                    <div class="fs-2 pt-3">
                       <a href="/allcourses#automotive">
                         Automotive
                       </a>
@@ -122,13 +76,13 @@
                 <div class="col-md-3">
                   <div class="carousel-img-item bg-white">
                     <div class="img-cover-container">
-                      <a href="/allcourses#cookery">
-                        <img src="svg/Vector Header-02.svg" class="">
+                      <a href="/allcourses#childcare">
+                        <img src="svg/Vector Health  website-02.svg" class="">
                       </a>
                     </div>
-                    <div class="fs-2 color-darkblue ps-5">
-                      <a href="/allcourses#cookery">
-                        Cookery & Hospitality
+                    <div class="fs-2">
+                      <a href="/allcourses#childcare">
+                        Childcare
                       </a>
                     </div>
                   </div>
@@ -137,43 +91,118 @@
                   <div class="carousel-img-item bg-white">
                     <div class="img-cover-container">
                       <a href="/allcourses#aged-care">
-                        <img src="svg/Vector Header-03.svg" class="">
+                        <img src="svg/Vector Health  website-03.svg" class="">
                       </a>
                     </div>
-                    <div class="fs-2 color-darkblue ps-5">
+                    <div class="fs-2">
                       <a href="/allcourses#aged-care">
-                        Aged Care & Community Services
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-
-                    <div class="img-cover-container">
-                      <a href="/allcourses#early-childhood">
-                        <img src="/images/earlychildhood2.png" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 color-darkblue ps-5">
-                      <a href="/allcourses#early-childhood">
-                        Early Childhood Education
+                        Community Services
                       </a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
+            <!-- 第2页 -->
             <div class="carousel-item">
               <div class="row ">
                 <div class="col-md-3">
                   <div class="carousel-img-item bg-white">
                     <div class="img-cover-container">
-                      <a href="/allcourses#cookery">
-                        <img src="svg/Vector Header-02.svg" class="">
+                      <a href="/allcourses#automotive">
+                        <img src="svg/Vector Health  website-04.svg" class="">
                       </a>
                     </div>
-                    <div class="fs-2 color-darkblue ps-5">
+                    <div class="fs-2 pt-3">
+                      <a href="/allcourses#automotive">
+                        Automotive
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="carousel-img-item bg-white">
+                    <div class="img-cover-container">
+                      <a href="/allcourses#childcare">
+                        <img src="svg/Vector Health  website-02.svg" class="">
+                      </a>
+                    </div>
+                    <div class="fs-2">
+                      <a href="/allcourses#childcare">
+                        Childcare
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="carousel-img-item bg-white">
+                    <div class="img-cover-container">
+                      <a href="/allcourses#aged-care">
+                        <img src="svg/Vector Health  website-03.svg" class="">
+                      </a>
+                    </div>
+                    <div class="fs-2">
+                      <a href="/allcourses#aged-care">
+                        Community Services
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="carousel-img-item bg-white">
+                    <div class="img-cover-container">
+                      <a href="/allcourses#cookery">
+                        <img src="svg/Vector Health  website-17.svg" class="">
+                      </a>
+                    </div>
+                    <div class="fs-2">
+                      <a href="/allcourses#cookery">
+                        Cookery & Hospitality
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- 第三页 -->
+            <div class="carousel-item">
+              <div class="row ">
+                <div class="col-md-3">
+                  <div class="carousel-img-item bg-white">
+                    <div class="img-cover-container">
+                      <a href="/allcourses#childcare">
+                        <img src="svg/Vector Health  website-02.svg" class="">
+                      </a>
+                    </div>
+                    <div class="fs-2">
+                      <a href="/allcourses#childcare">
+                        Childcare
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="carousel-img-item bg-white">
+                    <div class="img-cover-container">
+                      <a href="/allcourses#aged-care">
+                        <img src="svg/Vector Health  website-03.svg" class="">
+                      </a>
+                    </div>
+                    <div class="fs-2">
+                      <a href="/allcourses#aged-care">
+                        Community Services
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="carousel-img-item bg-white">
+                    <div class="img-cover-container">
+                      <a href="/allcourses#cookery">
+                        <img src="svg/Vector Health  website-17.svg" class="">
+                      </a>
+                    </div>
+                    <div class="fs-2">
                       <a href="/allcourses#cookery">
                         Cookery & Hospitality
                       </a>
@@ -183,42 +212,13 @@
                 <div class="col-md-3">
                   <div class="carousel-img-item bg-white">
                     <div class="img-cover-container">
-                      <a href="/allcourses#aged-care">
-                        <img src="svg/Vector Header-03.svg" class="">
+                      <a href="/allcourses#marketing">
+                        <img src="svg/Vector Health  website-05.svg" class="">
                       </a>
                     </div>
-                    <div class="fs-2 color-darkblue ps-5">
-                      <a href="/allcourses#aged-care">
-                        Aged Care & Community Services
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-
-                    <div class="img-cover-container">
-                      <a href="/allcourses#early-childhood">
-                        <img src="/images/earlychildhood2.png" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 color-darkblue ps-5">
-                      <a href="/allcourses#early-childhood">
-                        Early Childhood Education
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#english-courses">
-                        <img src="svg/Vector Header-07.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 color-darkblue ps-5 pt-3">
-                      <a href="/allcourses#english-courses">
-                        English Courses
+                    <div class="fs-2 pt-3">
+                      <a href="/allcourses#marketing">
+                        Marketing & Communication
                       </a>
                     </div>
                   </div>
@@ -243,35 +243,35 @@
   </section>
 
   <section class="bg-white">
-    <div class="bg-lightblue-round-left-bottom">
+    <div class="bg-darkpurple-round-left-bottom">
 
     <div class="container py-5 color-white">
-      <h1 class="py-5 ">By The Numbers</h1>
+      <h1 class="py-5 text-center">Why Us</h1>
       <div class="row text-center">
         <div class="col-md-3">
           <div class="home-excellent-img">
-            <img src="/images/exce1.png">
+            <img src="/images/vec-computer.png">
           </div>
           <h2 class="color-white home-excellent-num">10+</h2>
           <p class="fs-4">Years of Excellence</p>
         </div>
         <div class="col-md-3">
           <div class="home-excellent-img">
-            <img src="/images/exce2.png">
+            <img src="/images/vec-books.png">
           </div>
           <h2 class="color-white home-excellent-num">2+</h3>
           <p class="fs-4">Campus</p>
         </div>
         <div class="col-md-3">
             <div class="home-excellent-img">
-              <img src="/images/exce3.png">
+              <img src="/images/vec-meeting.png">
             </div>
             <h2 class="color-white home-excellent-num">5000+</h3>
             <p class="fs-4">Graduates</p>
         </div>
         <div class="col-md-3">
           <div class="home-excellent-img">
-            <img src="/images/exce4.png">
+            <img src="/images/vec-building.png">
           </div>
           <h2 class="color-white home-excellent-num">50+</h3>
           <p class="fs-4">Industry Partners</p>
@@ -291,7 +291,7 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-12 mt-5 px-5">
-            <h2 class="color-lightblue pt-5">Our Campus</h2>
+            <h2 class="color-darkpurple pt-5">Our Campus</h2>
             <p class="fs-4">Our campus provides diverse elements like learning spaces (libraries, labs, theaters), health/wellness centers (clinics, gyms, gardens), cultural spots (galleries, museums, outdoor venues), social hubs (cafes, student centers, quads), and specialized facilities (farms, aviation centers, art studios).</p>
           </div>
         </div>
@@ -417,13 +417,13 @@
   </section>
 
   <!-- section partners -->
-  <section class="" style="display: none;">
+  <section class="" style="">
     <div class="">
 
       <div class="container py-5">
         <div class="row">
           <div class="col-md-4 mt-5 px-5">
-            <h2 class="color-lightblue pt-5 fs-1">Partner Companies</h2>
+            <h2 class="color-darkpurple pt-5 fs-1">Partner Companies</h2>
           </div>
           <div class="col-md-8 mt-5 px-5 fs-4">
             <p>Partnerships between higher-education institutions and employers can be invaluable for helping businesses respond to growing talent needs and cutting training costs.

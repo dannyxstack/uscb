@@ -34,9 +34,13 @@ body {
   }
 
   .nav-link {
-    color: #4059a8;
+    color: #9c649a;
     font-size: larger;
     /* padding-left: 10px; */
+  }
+
+  .nav-link:hover {
+    color: #cf8dbd;
   }
 
   .nav-item {
@@ -46,10 +50,14 @@ body {
 
   
   .dropdown-item {
-    color: #4059a8;
+    color: #9c649a;
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: larger;
+  }
+
+  .dropdown-item:hover {
+    color: #cf8dbd;
   }
 
   /* Bootstrap Navbar 三级菜单 + hover 打开 */
@@ -156,6 +164,7 @@ body {
   
   a {
     text-decoration: none;
+    color: #9c649a;
   }
 
   .section-bg-whyus {
@@ -326,6 +335,10 @@ body {
   }
   .bg-lightblue-round-left-bottom {
     background-color: #42c3da;
+    border-bottom-left-radius: 160px;
+  }
+  .bg-darkpurple-round-left-bottom {
+    background-color: #9c649a;
     border-bottom-left-radius: 160px;
   }
   .bg-white-round-left-bottom {
