@@ -98,6 +98,7 @@
 
               <li><hr class="dropdown-divider"></li>
               <li><a class="dropdown-item" href="/intakedates">Intake Dates</a></li>
+              <li><a class="dropdown-item" href="/promotion">Promotional Prices</a></li>
 
 
             </ul>
@@ -107,7 +108,8 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Education Agents</a>
             <ul class="dropdown-menu">
-              <!-- <li><a class="dropdown-item" href="/agentlist">Agents</a></li> -->
+              <li><a class="dropdown-item" href="/agentlist">Agents</a></li>
+              <li><a class="dropdown-item" href="/findagent">Find An Agent</a></li>
               <li><a class="dropdown-item" href="https://form.jotform.com/252581213016043">Become an Agent</a></li>
             </ul>
           </li>

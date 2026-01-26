@@ -47,7 +47,7 @@
             <li class="mb-2"><a href="/apply">Apply Now</a></li>
             <li class="mb-2"><a href="/contact">Contact Us</a></li>
             <li class="mb-2"><a href="/intakedates">Intake Dates</a></li>
-            <li class="mb-2"><a href="/promotion">Promotion Prices</a></li>
+            <li class="mb-2"><a href="/promotion">Promotional Prices</a></li>
             <!-- <li class="mb-2"><a href="policies.html">Policies</a></li> -->
             <!-- <li class="mb-2"><a href="https://form.jotform.com/252581213016043">Apply Now</a></li> -->
           </ul>
