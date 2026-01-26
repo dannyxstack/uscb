@@ -104,21 +104,6 @@ body {
     text-align: left;
   }
 
-  .benefits-card {
-    background-color: #f1f1f1;
-    border: none;
-    padding: 20px;
-    border-radius: 20px;
-    height: 700px;
-  }
-  .benefits-card-img {
-    border-radius: 50%;
-    width: 250px;
-    height: 250px;
-  }
-  .benefits-card-title {
-    height: 100px;
-  }
   .footer {
     background-color: var(--dark-blue);
     color: var(--white);
@@ -260,50 +245,7 @@ body {
     color: #bf69a8;
   }
 
-  /** svg colors **/
 
-  .svg-inverted-filter {
-    filter: invert(100%); /* 反转所有颜色 */
-  }
-
-  .svg-inverted-brightness {
-    filter: invert(100%) brightness(2); /* 反转并增加亮度 */
-  }
-
-
-  .svg-white-stroke path,
-  .svg-white-stroke circle,
-  .svg-white-stroke rect,
-  .svg-white-stroke line,
-  .svg-white-stroke polyline,
-  .svg-white-stroke polygon {
-    fill: none !important;
-    stroke: white !important;
-    /* stroke-width: 2 !important; */
-  }
-  .svg-white-fill path {
-    fill: white !important;
-    stroke: none !important;
-  }
-    /* 亮蓝色 ok */
-    .img-light-blue {
-    filter: 
-        brightness(0) 
-        saturate(100%) 
-        invert(60%) 
-        sepia(80%) 
-        saturate(1000%) 
-        hue-rotate(180deg) 
-        /* hue-rotate(44c2d9)  */
-        brightness(110%) 
-        contrast(100%);
-    }
-
-  /* grok 替换svg线条颜色为#44c2d9 */
-  .svg-color-lightblue {
-    filter: brightness(0) saturate(100%) invert(52%) sepia(87%) saturate(824%) hue-rotate(158deg) brightness(96%) contrast(92%);
-  }
-  
   .bg-white-left-bottom {
     background-color: white;
     border-bottom-left-radius: 250px;

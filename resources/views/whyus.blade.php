@@ -3,6 +3,73 @@
 
 @include('layouts.head')
 
+<style>
+.benefits-card {
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  height: 700px;
+}
+.benefits-card-img {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+}
+.benefits-card-title {
+  height: 100px;
+}
+
+  /** svg colors **/
+
+  .svg-inverted-filter {
+    filter: invert(100%); /* 反转所有颜色 */
+  }
+
+  .svg-inverted-brightness {
+    filter: invert(100%) brightness(2); /* 反转并增加亮度 */
+  }
+
+
+  .svg-white-stroke path,
+  .svg-white-stroke circle,
+  .svg-white-stroke rect,
+  .svg-white-stroke line,
+  .svg-white-stroke polyline,
+  .svg-white-stroke polygon {
+    fill: none !important;
+    stroke: white !important;
+    /* stroke-width: 2 !important; */
+  }
+  .svg-white-fill path {
+    fill: white !important;
+    stroke: none !important;
+  }
+    /* 亮蓝色 ok */
+    .img-light-blue {
+    filter: 
+        brightness(0) 
+        saturate(100%) 
+        invert(60%) 
+        sepia(80%) 
+        saturate(1000%) 
+        hue-rotate(180deg) 
+        /* hue-rotate(44c2d9)  */
+        brightness(110%) 
+        contrast(100%);
+    }
+
+  /* grok 替换svg线条颜色为#44c2d9 */
+  .svg-color-lightblue {
+    filter: brightness(0) saturate(100%) invert(66%) sepia(74%) saturate(407%) hue-rotate(143deg) brightness(92%) contrast(84%);
+  }
+  
+  .svg-color-lightpurple {
+    filter: brightness(0) saturate(100%) invert(66%) sepia(25%) saturate(542%) hue-rotate(264deg) brightness(86%) contrast(95%);
+  }
+
+
+</style>
+
 <body>
 
   <!-- top navbar -->
@@ -23,11 +90,11 @@
 
     <div class="container text-center py-5">
       <h1 class="py-5 color-darkpurple">Benefits of studying with us</h1>
-      <div class="row" style="display: none;">
+      <div class="row" style="display: ;">
         <div class="col-md-4">
           <div class="benefits-card">
-            <div class="benefits-card-img mx-auto d-block bg-white" >
-              <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-lightblue" alt="Cost icon">
+            <div class="benefits-card-img mx-auto d-block bg-grey-color" >
+              <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-lightpurple" alt="Cost icon">
             </div>
             <h2 class="pt-4 color-darkpurple benefits-card-title">Cost Effective</h3>
             <p class="fs-5 text-start ms-3">Penfold training courses are cost competitive in the market place. Our pricing structure will provide you with confidence that you are receiving value for money on your investment.</p>
@@ -35,8 +102,8 @@
         </div>
         <div class="col-md-4">
           <div class="benefits-card">
-            <div class="benefits-card-img mx-auto d-block bg-darkblue" >
-              <img src="svg/Vector Header-17.svg" class="benefits-card-img svg-inverted-brightness">
+            <div class="benefits-card-img mx-auto d-block bg-grey-color" >
+              <img src="svg/Vector Header-17.svg" class="benefits-card-img svg-color-lightblue">
             </div>
             <h2 class="pt-4 color-darkpurple benefits-card-title">Campuses Easy to Access</h3>
             <p class="fs-5 text-start ms-3">The campus is located in the heart of the Melbourne Central Business District (CBD). Public transport (trains, trams and buses) is accessible to and from the campus 7 days a week. Penfold facilities boast modern classrooms and computer labs, as well as other training facilities that are ideal for you to gain the most out of your study.</p>
@@ -44,8 +111,8 @@
         </div>
         <div class="col-md-4">
           <div class="benefits-card">
-            <div class="benefits-card-img mx-auto d-block bg-white" >
-              <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightblue">
+            <div class="benefits-card-img mx-auto d-block bg-grey-color" >
+              <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightpurple">
             </div>
             <h2 class="pt-4 color-darkpurple benefits-card-title">The Academic Staff</h3>
             <p class="fs-5 text-start ms-3">Penfold trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
@@ -53,8 +120,8 @@
         </div>
         <div class="col-md-4">
           <div class="benefits-card">
-            <div class="benefits-card-img mx-auto d-block bg-darkblue" style1="background-color: #3f58a6;">
-              <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-inverted-brightness"></svg>
+            <div class="benefits-card-img mx-auto d-block bg-grey-color">
+              <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-color-lightblue"></svg>
             </div>
             <h2 class="pt-2 color-darkpurple benefits-card-title">Modern Technology and Resources</h3>
             <p class="fs-5 text-start ms-3">Our computer labs are equipped with modern technology and are accessible to you during your studies. You will have free access to Wi-Fi for personal use (in accordance with policy) during your enrolment with us on campus.</p>
@@ -62,8 +129,8 @@
         </div>
         <div class="col-md-4">
           <div class="benefits-card">
-            <div class="benefits-card-img mx-auto d-block bg-white" >
-              <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightblue">
+            <div class="benefits-card-img mx-auto d-block bg-grey-color" >
+              <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightpurple">
             </div>
             <h2 class="pt-4 color-darkpurple benefits-card-title">Flexible Learning</h3>
             <p class="fs-5 text-start ms-3">We provide flexible study options and, where possible, schedule daytime, evening and weekend classes to meet the all of your needs. All scheduled classes are face-to-face classroom based on the campus.</p>
@@ -71,8 +138,8 @@
         </div>
         <div class="col-md-4">
           <div class="benefits-card">
-            <div class="benefits-card-img mx-auto d-block bg-darkblue" >
-              <img src="svg/Vector Header-19.svg" class="benefits-card-img svg-inverted-brightness">
+            <div class="benefits-card-img mx-auto d-block bg-grey-color" >
+              <img src="svg/Vector Header-19.svg" class="benefits-card-img svg-color-lightblue">
             </div>
             <h2 class="pt-4 color-darkpurple benefits-card-title">Student Support Services</h3>
             <p class="fs-5 text-start ms-3">Our Student Support Services strive to provide the very best welfare and academic support for you. With our commitment to ensuring a personalised service that meets your needs, our staff interact with you when you need. You can make appointments to receive the support you are seeking.</p>
@@ -81,7 +148,7 @@
       </div>
 
       <!-- 示例：校园图片轮播 -->
-      <div id="benefitCarousel" class="carousel slide py-5">
+      <div id="benefitCarousel" class="carousel slide py-5" style="display: none;">
         <!-- 轮播图片 -->
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -238,9 +305,10 @@
             <h2 class="color-lightpurple pt-5">Why USG</h2>
             <h1 class="color-darkpurple py-2" >What Makes USG Different</h2>
             <p class="fs-5">At USG, we combine practical, industry-focused training with comprehensive student support services designed specifically for international students. Unlike traditional institutions, we provide hands-on learning experiences, strong employer connections, and flexible study options that fit your lifestyle while ensuring you gain the skills Australian employers actually need.</p>
+            <a href="/allcourses" class="btn btn-lg footer-start-here-btn fs-4 mt-3 bg-darkpurple color-white">Explore</a>
           </div>
           <div class="col-md-6">
-            <img src="svg/Vector Header-09.svg" alt="Support illustration" class="img-fluid" style="max-height: 500px;">
+            <img src="svg/Vector Health  website-15.svg" alt="Support illustration" class="img-fluid" style="max-height: 500px;">
           </div>
         </div>
       </div>
