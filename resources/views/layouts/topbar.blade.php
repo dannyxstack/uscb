@@ -14,8 +14,8 @@
   <!-- navbar -->
   <nav class="navbar navbar-expand-lg shadow-sm sticky-top">
     <div class="container">
-      <a class="navbar-brand" href="index.html">
-        <img src="/images/logo-colored.png" alt="Unity Skills Group Logo" height="80">
+      <a class="navbar-brand py-3" href="index.html">
+        <img src="/images/LOGO_US_Health Landscape-01.s.png" alt="Unity Skills Group Logo" height="60">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
@@ -126,7 +126,7 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Education Agents</a>
             <ul class="dropdown-menu">
               <!-- <li><a class="dropdown-item" href="/agentlist">Agents</a></li> -->
-              <li><a class="dropdown-item" href="https://penfold.edu.au/wp-content/uploads/2023/02/Education-Agents-Application-Form-Penfold-College.pdf">Become an Agent</a></li>
+              <li><a class="dropdown-item" href="https://form.jotform.com/252581213016043">Become an Agent</a></li>
             </ul>
           </li>
           <li class="nav-item"><a class="nav-link" href="/contact">Contact Us</a></li>

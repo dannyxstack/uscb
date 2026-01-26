@@ -176,7 +176,7 @@ body {
   }
 
   .section-bg-home {
-    background-image: url('/images/bg-header-start.png');
+    background-image: url('/images/bg-header-home.png');
     background-size: cover; /* 覆盖整个区域 */
     background-position: center; /* 居中显示 */
     width: 100%;

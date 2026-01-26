@@ -33,7 +33,7 @@
         <div class="row ">
           <div class="col-md-12" style="padding-top: 100px;">
             <h2 class="color-lightblue">Start Exploring</h2>
-            <p class="fs-3">Discover the full range of courses at United Skills Group</p>
+            <p class="fs-3">Discover the full range of courses at United Skills College of Health</p>
             <p class="fs-4">Your educational path begins here, find the perfect course for you.</p>
           </div>
         </div>
@@ -43,13 +43,13 @@
           <!-- 轮播图片 -->
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <div class="row ">
+              <div class="row  py-2 px-2">
                 <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
+                  <div class="carousel-img-item bg-white shadow-sm">
 
                     <div class="img-cover-container">
                       <a href="/allcourses#business">
-                        <img src="svg/Vector Health  website-19.svg" class="">
+                        <img src="svg/Vector Health  website-05.svg" class="">
                       </a>
                     </div>
                     <div class="fs-2">
@@ -60,7 +60,7 @@
                   </div>
                 </div>
                 <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
+                  <div class="carousel-img-item bg-white shadow-sm">
                     <div class="img-cover-container">
                       <a href="/allcourses#automotive">
                         <img src="svg/Vector Health  website-04.svg" class="">
@@ -74,7 +74,7 @@
                   </div>
                 </div>
                 <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
+                  <div class="carousel-img-item bg-white shadow-sm">
                     <div class="img-cover-container">
                       <a href="/allcourses#childcare">
                         <img src="svg/Vector Health  website-02.svg" class="">
@@ -88,7 +88,7 @@
                   </div>
                 </div>
                 <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
+                  <div class="carousel-img-item bg-white shadow-sm">
                     <div class="img-cover-container">
                       <a href="/allcourses#aged-care">
                         <img src="svg/Vector Health  website-03.svg" class="">
@@ -213,7 +213,7 @@
                   <div class="carousel-img-item bg-white">
                     <div class="img-cover-container">
                       <a href="/allcourses#marketing">
-                        <img src="svg/Vector Health  website-05.svg" class="">
+                        <img src="svg/Vector Health  website-19.svg" class="">
                       </a>
                     </div>
                     <div class="fs-2 pt-3">

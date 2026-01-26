@@ -14,7 +14,7 @@
         <div class="col-md-3">
           
           <a href="/index" class="navbar-brand">
-            <img src="/images/logo-white.png" alt="Unity Skills Group Logo" height="80">
+            <img src="/images/LOGO_US_Health Landscape-02.s.png" alt="Unity Skills Group Logo" height="60">
           </a>
         </div>
         <div class="col-md-9">
