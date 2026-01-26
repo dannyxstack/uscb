@@ -162,7 +162,11 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-6">
-            <img src="/images/location1.png" alt="Penfold College Location" class="img-fluid campus-location-img" style="max-height: 500px;">
+            <div class="campus-location-img-box">
+              <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">
+                <img src="/images/location2.png" alt="Penfold College Location" class="img-fluid campus-location-img" style="max-height: 500px;">
+              </a>
+            </div>
           </div>
           <div class="col-md-6 mt-3 ps-5">
             <p class="color-lightblue fs-4 mb-0">Location</p>
