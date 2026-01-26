@@ -18,6 +18,9 @@ Route::get('/campus', function () {
 Route::get('/whyus', function () {
     return view('whyus', ['title' => 'Why Us'] );
 });
+Route::get('/findagent', function () {
+    return view('findagent', ['title' => 'Find An Agent'] );
+});
 Route::get('/whyus.html', function () {
     return view('whyus');
 });

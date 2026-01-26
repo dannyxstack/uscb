@@ -42,7 +42,8 @@
             <li class="mb-2"><a href="/campus">Our Campus</a></li>
             <li class="mb-2"><a href="/colleges">Colleges</a></li>
             <li class="mb-2"><a href="/allcourses">All Courses</a></li>
-            <!-- <li class="mb-2"><a href="/agentlist">Education Agents</a></li> -->
+            <li class="mb-2"><a href="/findagent">Find An Agent</a></li>
+            <li class="mb-2"><a href="/agentlist">Education Agents</a></li>
             <li class="mb-2"><a href="/contact">Contact Us</a></li>
             <!-- <li class="mb-2"><a href="policies.html">Policies</a></li> -->
             <!-- <li class="mb-2"><a href="https://form.jotform.com/252581213016043">Apply Now</a></li> -->

@@ -284,6 +284,10 @@ body {
     background-color: #9c649a;
     border-bottom-left-radius: 160px;
   }
+  .bg-lightpurple-round-left-bottom {
+    background-color: #c785b5;
+    border-bottom-left-radius: 160px;
+  }
   .bg-white-round-left-bottom {
     background-color: white;
     border-bottom-left-radius: 240px;
