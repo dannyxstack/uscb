@@ -14,7 +14,7 @@
         <div class="col-md-3">
           
           <a href="/index" class="navbar-brand">
-            <img src="/images/LOGO_US_Health Landscape-02.s.png" alt="Unity Skills Group Logo" height="60">
+            <img src="/images/LOGO_US_Health Landscape-02.s.png" alt="Unity Skills College of Health Logo" height="60">
           </a>
         </div>
         <div class="col-md-9">
@@ -22,17 +22,11 @@
       </div>
       <div class="row footer-nav-row mt-3">
         <div class="col-md-4">
-          <h5 class="mb-4 fs-4">Follow Us</h5>
-          <div class="d-flex gap-3">
-              <a href="https://www.facebook.com/profile.php?id=100078400561598" class="text-white"><i class="fab fa-facebook-f fa-lg"></i></a>
-              <a href="#" class="text-white"><i class="fab fa-twitter fa-lg"></i></a>
-              <a href="https://www.instagram.com/penfold060?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="text-white"><i class="fab fa-instagram fa-lg"></i></a>
-              <a href="#" class="text-white"><i class="fab fa-linkedin-in fa-lg"></i></a>
-          </div>
-          <!-- <p>Follow us</p>
-          <p>Email</p>
-          <p>Phone</p>
-          <p>address</p> -->
+          <!-- <h5 class="fs-4">Quick Link</h5> -->
+          <a href="https://usg-u4amt.kinsta.app/" class="navbar-brand">
+            <img src="/images/logo-usg-white.png" alt="Unity Skills Group Logo" style="margin-top: 80px;" height="80">
+          </a>
+
         </div>
         <div class="col-md-4">
           <h5 class="fs-4">Navigation</h5>
@@ -57,6 +51,13 @@
           <p><i class="fas fa-envelope me-2"></i> info@unityskills.edu.au</p>
           <p><i class="fas fa-phone me-2"></i> +61 3 8637 0343</p>
           <p><i class="fas fa-map-marker-alt me-2"></i> Level 3, 123 Lonsdale Street, Melbourne</p>
+          <h5 class="mb-3 fs-4">Follow Us</h5>
+          <div class="d-flex gap-3 mb-4">
+              <a href="https://www.facebook.com/profile.php?id=100078400561598" class="text-white"><i class="fab fa-facebook-f fa-lg"></i></a>
+              <!-- <a href="#" class="text-white"><i class="fab fa-twitter fa-lg"></i></a> -->
+              <a href="https://www.instagram.com/penfold060?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="text-white"><i class="fab fa-instagram fa-lg"></i></a>
+              <!-- <a href="#" class="text-white"><i class="fab fa-linkedin-in fa-lg"></i></a> -->
+          </div>
           <p>JOIN OUR COMMUNITY</p>
           <form>
             <input type="email" class="form-control" placeholder="Email*">
@@ -66,6 +67,6 @@
       </div>
     </div>
     <div class="copyright-row text-center py-5">
-      <p class="mb-0">&copy; 2025 United Skills Group. All rights reserved.</p>
+      <p class="mb-0">&copy; {{ date('Y') }} Unity Skills College of Health. All rights reserved.</p>
     </div>
   </footer>

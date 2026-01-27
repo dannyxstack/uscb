@@ -59,7 +59,7 @@
           <h1 class="color-darkpurple">Agent List</h1>
         </div>
         <div class="col-md-6 text-end">
-          <a href="http://penfold.edu.au/wp-content/uploads/2023/02/Education-Agents-Application-Form-Penfold-College.pdf" class="btn color-white bg-darkpurple rounded-5 fs-4">Become an Agent</a>
+          <a href="https://form.jotform.com/252581213016043" class="btn color-white bg-darkpurple rounded-5 fs-4">Become an Agent</a>
         </div>
       </div>
       <div class="row">
