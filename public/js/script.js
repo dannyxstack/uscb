@@ -42,7 +42,7 @@ $(document).ready(function() {
     // uscohospitality.edu.au
 
     // 构造 Google 站内搜索 URL
-    const searchUrl = `https://www.google.com/search?q=site:unityskills.com.au ${encodeURIComponent(query)}`;
+    const searchUrl = `https://www.google.com/search?q=site:uscohealth.edu.au ${encodeURIComponent(query)}`;
   
     // 在新标签页打开
     window.open(searchUrl, '_blank');

@@ -14,10 +14,13 @@
 
 table { border-collapse: collapse; margin-bottom: 20px; }
 th, td { border: 0; padding: 8px; text-align: left; }
-th { 
-  background-color: #f2f2f2; 
-  font-weight: 700;
+table th {
+  background-color: #f1e1ed;
 }
+table {
+  border-color: #f1e1ed;
+}
+
 </style>
 
 <body>
