@@ -164,7 +164,7 @@
           <div class="col-md-6">
             <div class="campus-location-img-box">
               <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">
-                <img src="/images/location2.png" alt="Penfold College Location" class="img-fluid campus-location-img" style="max-height: 500px;">
+                <img src="/images/location2.png" alt="College Location" class="img-fluid campus-location-img" style="max-height: 500px;">
               </a>
             </div>
           </div>
