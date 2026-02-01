@@ -88,7 +88,7 @@
   left: 0;
   width: 100%;
   height: 80%;
-  background-color: #c785b5;
+  background-color: #bfa96b;
   border-radius: 30px;
   z-index: 0;
 }
@@ -523,7 +523,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img src="svg/Vector Health  website-16.svg" class="campus-icon mb-2" alt="Campus Icon">
+          <img src="svg/Vector Health  website-16.svg" class="campus-icon mb-2 svg-color-gold" alt="Campus Icon">
           <p></p>
           <h2 class="color-darkblue">Why USG Campuses Easy to Access</h2>
           <p>Our campuses are strategically located with convenience in mind. 
