@@ -46,14 +46,14 @@
           <div class="col-md-10 text-start fs-4">
             <h1 class="fs-1">Student Services</h1>
             <p class="pt-3"></p>
-            <p>Unity Skills College of Health provides a range of services to support students during their time studying with us. We understand the difficulties students may face in settling into a foreign environment and we have a Student Services Department (SSD) available to offer personal and friendly assistance to students. provides a range of services to support students during their time studying with us. We understand the difficulties students may face in settling into a foreign environment and we have a Student Services Department (SSD) available to offer personal and friendly assistance to students.</p>
+            <p>Unity Skills College of Hospitality provides a range of services to support students during their time studying with us. We understand the difficulties students may face in settling into a foreign environment and we have a Student Services Department (SSD) available to offer personal and friendly assistance to students. provides a range of services to support students during their time studying with us. We understand the difficulties students may face in settling into a foreign environment and we have a Student Services Department (SSD) available to offer personal and friendly assistance to students.</p>
             <p>All our staff have the responsibility to support their students and understand the process of referring students to the designated staff for different aspects of the services.</p>
             <p>Student Services Officers are the first point of contact for students via email (Studentservice@penfold.edu.au).</p>
             <p>The Student Services Officers will be responsible for:</p>
             <div>
             <ul>
-              <li>Providing students with up-to-date details of Unity Skills College of Health support services.</li>
-              <li>Handling student enquiries about course timetables, classroom arrangements, facilities and hospitality of Unity Skills College of Health.</li>
+              <li>Providing students with up-to-date details of Unity Skills College of Hospitality support services.</li>
+              <li>Handling student enquiries about course timetables, classroom arrangements, facilities and hospitality of Unity Skills College of Hospitality.</li>
               <li>Organising student orientation.</li>
               <li>Receiving student complaints and referring complaints to the RTO Manager.</li>
               <li>Providing students with information about&nbsp;Penfold&nbsp;attendance and course progress requirements.</li>
@@ -82,7 +82,7 @@
         <div class="col-md-6" style="padding-top: 70px;">
           <h2 class="color-gold fs-1">Academic Support</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
-          <p class="fs-5 mt-3">All College academic staff are responsible for providing academic support to all students. Students can access one-on-one learning support with the Unity Skills College of Health Learning Advisor. Students can make appointments with the Learning Advisor via email (learningsupport@penfold.edu.au) or through the Student Services Officers.</p>
+          <p class="fs-5 mt-3">All College academic staff are responsible for providing academic support to all students. Students can access one-on-one learning support with the Unity Skills College of Hospitality Learning Advisor. Students can make appointments with the Learning Advisor via email (learningsupport@penfold.edu.au) or through the Student Services Officers.</p>
           <p class="fs-5">The Learning Advisor is responsible for:</p>
           <ul>
             <li>Accessing the LLN test reports and identifying specific learning support needs.</li>
@@ -106,7 +106,7 @@
           <!-- <p class="pt-5"></p> -->
           <h2 class="color-gold fs-1">Student Welfare Counsellor</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
-          <p class="fs-5 mt-3">The Student Welfare Counsellor is available for all Unity Skills College of Health students and provides counselling based on appointment.</p>
+          <p class="fs-5 mt-3">The Student Welfare Counsellor is available for all Unity Skills College of Hospitality students and provides counselling based on appointment.</p>
           <p class="fs-5">Students can contact the Student Welfare Counsellor via email (welfaresupport@penfold.edu.au) for consultation on:</p>
           <ul>
             <li>Stress due to study</li>

@@ -67,6 +67,6 @@
       </div>
     </div>
     <div class="copyright-row text-center py-5">
-      <p class="mb-0">&copy; {{ date('Y') }} Unity Skills College of Health. All rights reserved.</p>
+      <p class="mb-0">&copy; {{ date('Y') }} Unity Skills College of Hospitality. All rights reserved.</p>
     </div>
   </footer>
