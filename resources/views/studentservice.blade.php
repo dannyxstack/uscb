@@ -70,7 +70,7 @@
 
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
-          <h2 class="color-darkpurple fs-1">Academic Support</h2>
+          <h2 class="color-gold fs-1">Academic Support</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="fs-5 mt-3">All College academic staff are responsible for providing academic support to all students. Students can access one-on-one learning support with the Unity Skills College of Health Learning Advisor. Students can make appointments with the Learning Advisor via email (learningsupport@penfold.edu.au) or through the Student Services Officers.</p>
           <p class="fs-5">The Learning Advisor is responsible for:</p>
@@ -94,7 +94,7 @@
       <div class="row pb-5 fs-5">
         <div class="col-md-6" style="padding-top: 70px;">
           <!-- <p class="pt-5"></p> -->
-          <h2 class="color-darkpurple fs-1">Student Welfare Counsellor</h2>
+          <h2 class="color-gold fs-1">Student Welfare Counsellor</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="fs-5 mt-3">The Student Welfare Counsellor is available for all Unity Skills College of Health students and provides counselling based on appointment.</p>
           <p class="fs-5">Students can contact the Student Welfare Counsellor via email (welfaresupport@penfold.edu.au) for consultation on:</p>

@@ -124,7 +124,7 @@
         <div class="col-md-6" style="padding-top: 70px;">
           <h2 class="color-lightpurple">Our Campus</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
-          <p class="color-darkpurple" style="font-size: 32px;">Melbourne</p>
+          <p class="color-gold" style="font-size: 32px;">Melbourne</p>
           <p style="font-size: 20px;">Melbourne offers a world-class education, consistently ranked highly globally for liveability and student experience, boasting top universities like UniMelb & Monash, diverse learning opportunities from K-12 to tertiary, and innovative, future-focused schooling with flexible spaces and advanced tech, making it a premier destination for academic growth and skill development in a vibrant, multicultural city. </p>
           <!-- <p style="font-size: 20px;">The campus is located in the heart of the Melbourne Central Business District (CBD). Public transport (trains, trams and buses) is accessible to and from the campus 7 days a week. Penfold facilities boast modern classrooms and computer labs, as well as other training facilities that are ideal for you to gain the most out of your study.</p> -->
            <p class="mt-5"></p>
@@ -149,7 +149,7 @@
         <div class="col-md-5" style="padding-top: 70px;">
           <h2 class="color-lightpurple">Unity Skills College of Health</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
-          <p class="color-darkpurple fs-4">RTO Code: 45045 | Cricos: 03946C</p>
+          <p class="color-gold fs-4">RTO Code: 45045 | Cricos: 03946C</p>
           <p class="fs-5">Prepare for meaningful careers in healthcare through our nationally-recognized programs, where you'll gain the practical skills and compassionate approach needed to support individuals and communities at every stage of life.</p>
           <p class="mt-5"></p>
             <!-- 自定义指示器（核心部分） -->

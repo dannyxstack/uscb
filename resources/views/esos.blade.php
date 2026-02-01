@@ -35,7 +35,7 @@
     <div class="container">
       <div class="row fs-5">
         <div class="col-md-6" style="padding-top: 70px;">
-          <h2 class="color-darkpurple fs-1">The Education Services for Overseas Students Act 2018 (ESOS Act) and associated legislation form the ESOS Framework</h2>
+          <h2 class="color-gold fs-1">The Education Services for Overseas Students Act 2018 (ESOS Act) and associated legislation form the ESOS Framework</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="mt-3">This is the legal framework for the provision of education services to overseas students, and sets out the registration requirements and the ongoing standards for education providers that offer courses to overseas students.</p>
           <p class="">The framework provides a consistent national approach to the registration of education providers so that the quality of the training, and the care of students, remains high.</p>
@@ -64,7 +64,7 @@
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
           <!-- <p class="pt-5"></p> -->
-          <h2 class="color-darkpurple fs-1">The Tuition Protection Service</h2>
+          <h2 class="color-gold fs-1">The Tuition Protection Service</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="mt-3">(TPS) is an initiative of the Australian Government to assist international students whose education providers are unable to fully deliver their course of study. The TPS ensures that international students are able to either:</p>
           <ul>

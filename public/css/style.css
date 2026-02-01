@@ -247,6 +247,9 @@ body {
   .color-gold {
     color: #bfa869
   }
+  .color-lightgold {
+    color: #d6c79e
+  }
   .color-black {
     color: black;
   }
@@ -310,10 +313,33 @@ body {
     background-color: white;
     border-bottom-right-radius: 160px;
   }
+  .bg-black-round-left-bottom {
+    background-color: black;
+    border-bottom-left-radius: 240px;
+  }
+  .bg-black-round-right-bottom {
+    background-color: black;
+    border-bottom-right-radius: 160px;
+  }
+  .bg-darkgrey-round-left-bottom {
+    background-color: #242424;
+    border-bottom-left-radius: 240px;
+  }
+  .bg-darkgrey-round-right-bottom {
+    background-color: #242424;
+    border-bottom-right-radius: 160px;
+  }
 
   .btn {
     color: white;
     background-color: #242424;
+    border-color: #242424
+  }
+
+  .btn:hover {
+    color: white;
+    background-color: #3d3d3d;
+    border-color: #3d3d3d;
   }
 
 /* grok 自定义轮播指示器 - 胶囊形背景 + 颜色匹配原型 */

@@ -124,14 +124,14 @@
     <div class="bg-white-left-bottom">
 
     <div class="container text-center py-5">
-      <h1 class="py-5 color-darkpurple">Benefits of studying with us</h1>
+      <h1 class="py-5 color-gold">Benefits of studying with us</h1>
       <div class="row" style="display: ;">
         <div class="col-md-4">
           <div class="benefits-card">
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
               <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-lightpurple" alt="Cost icon">
             </div>
-            <h2 class="pt-4 color-darkpurple benefits-card-title">Cost Effective</h3>
+            <h2 class="pt-4 color-gold benefits-card-title">Cost Effective</h3>
             <p class="fs-5 text-start ms-3">Unity Skills College of Health training courses are cost competitive in the market place. Our pricing structure will provide you with confidence that you are receiving value for money on your investment.</p>
           </div>
         </div>
@@ -140,7 +140,7 @@
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
               <img src="svg/Vector Header-17.svg" class="benefits-card-img svg-color-lightblue">
             </div>
-            <h2 class="pt-4 color-darkpurple benefits-card-title">Campuses Easy to Access</h3>
+            <h2 class="pt-4 color-gold benefits-card-title">Campuses Easy to Access</h3>
             <p class="fs-5 text-start ms-3">The campus is located in the heart of the Melbourne Central Business District (CBD). Public transport (trains, trams and buses) is accessible to and from the campus 7 days a week. Unity Skills College of Health facilities boast modern classrooms and computer labs, as well as other training facilities that are ideal for you to gain the most out of your study.</p>
           </div>
         </div>
@@ -149,7 +149,7 @@
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
               <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightpurple">
             </div>
-            <h2 class="pt-4 color-darkpurple benefits-card-title">The Academic Staff</h3>
+            <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
             <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
           </div>
         </div>
@@ -158,7 +158,7 @@
             <div class="benefits-card-img mx-auto d-block bg-grey-color">
               <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-color-lightblue"></svg>
             </div>
-            <h2 class="pt-2 color-darkpurple benefits-card-title">Modern Technology and Resources</h3>
+            <h2 class="pt-2 color-gold benefits-card-title">Modern Technology and Resources</h3>
             <p class="fs-5 text-start ms-3">Our computer labs are equipped with modern technology and are accessible to you during your studies. You will have free access to Wi-Fi for personal use (in accordance with policy) during your enrolment with us on campus.</p>
           </div>
         </div>
@@ -167,7 +167,7 @@
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
               <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightpurple">
             </div>
-            <h2 class="pt-4 color-darkpurple benefits-card-title">Flexible Learning</h3>
+            <h2 class="pt-4 color-gold benefits-card-title">Flexible Learning</h3>
             <p class="fs-5 text-start ms-3">We provide flexible study options and, where possible, schedule daytime, evening and weekend classes to meet the all of your needs. All scheduled classes are face-to-face classroom based on the campus.</p>
           </div>
         </div>
@@ -176,7 +176,7 @@
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
               <img src="svg/Vector Header-19.svg" class="benefits-card-img svg-color-lightblue">
             </div>
-            <h2 class="pt-4 color-darkpurple benefits-card-title">Student Support Services</h3>
+            <h2 class="pt-4 color-gold benefits-card-title">Student Support Services</h3>
             <p class="fs-5 text-start ms-3">Our Student Support Services strive to provide the very best welfare and academic support for you. With our commitment to ensuring a personalised service that meets your needs, our staff interact with you when you need. You can make appointments to receive the support you are seeking.</p>
           </div>
         </div>
@@ -194,7 +194,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-white" >
                     <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-lightblue" alt="Cost icon">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">Cost Effective</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">Cost Effective</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health training courses are cost competitive in the market place. Our pricing structure will provide you with confidence that you are receiving value for money on your investment.</p>
                 </div>
               </div>
@@ -203,7 +203,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-darkblue" >
                     <img src="svg/Vector Header-17.svg" class="benefits-card-img svg-inverted-brightness">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">Campuses Easy to Access</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">Campuses Easy to Access</h3>
                   <p class="fs-5 text-start ms-3">The campus is located in the heart of the Melbourne Central Business District (CBD). Public transport (trains, trams and buses) is accessible to and from the campus 7 days a week. Unity Skills College of Health facilities boast modern classrooms and computer labs, as well as other training facilities that are ideal for you to gain the most out of your study.</p>
                 </div>
               </div>
@@ -212,7 +212,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-white" >
                     <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightblue">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">The Academic Staff</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
                 </div>
               </div>
@@ -226,7 +226,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-darkblue" >
                     <img src="svg/Vector Header-17.svg" class="benefits-card-img svg-inverted-brightness">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">Campuses Easy to Access</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">Campuses Easy to Access</h3>
                   <p class="fs-5 text-start ms-3">The campus is located in the heart of the Melbourne Central Business District (CBD). Public transport (trains, trams and buses) is accessible to and from the campus 7 days a week. Unity Skills College of Health facilities boast modern classrooms and computer labs, as well as other training facilities that are ideal for you to gain the most out of your study.</p>
                 </div>
               </div>
@@ -235,7 +235,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-white" >
                     <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightblue">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">The Academic Staff</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
                 </div>
               </div>
@@ -244,7 +244,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-darkblue" style1="background-color: #3f58a6;">
                     <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-inverted-brightness"></svg>
                   </div>
-                  <h2 class="pt-2 color-darkpurple benefits-card-title">Modern Technology and Resources</h3>
+                  <h2 class="pt-2 color-gold benefits-card-title">Modern Technology and Resources</h3>
                   <p class="fs-5 text-start ms-3">Our computer labs are equipped with modern technology and are accessible to you during your studies. You will have free access to Wi-Fi for personal use (in accordance with policy) during your enrolment with us on campus.</p>
                 </div>
               </div>
@@ -259,7 +259,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-white" >
                     <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightblue">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">The Academic Staff</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
                 </div>
               </div>
@@ -268,7 +268,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-darkblue" style1="background-color: #3f58a6;">
                     <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-inverted-brightness"></svg>
                   </div>
-                  <h2 class="pt-2 color-darkpurple benefits-card-title">Modern Technology and Resources</h3>
+                  <h2 class="pt-2 color-gold benefits-card-title">Modern Technology and Resources</h3>
                   <p class="fs-5 text-start ms-3">Our computer labs are equipped with modern technology and are accessible to you during your studies. You will have free access to Wi-Fi for personal use (in accordance with policy) during your enrolment with us on campus.</p>
                 </div>
               </div>
@@ -277,7 +277,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-white" >
                     <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightblue">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">Flexible Learning</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">Flexible Learning</h3>
                   <p class="fs-5 text-start ms-3">We provide flexible study options and, where possible, schedule daytime, evening and weekend classes to meet the all of your needs. All scheduled classes are face-to-face classroom based on the campus.</p>
                 </div>
               </div>
@@ -291,7 +291,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-darkblue" style1="background-color: #3f58a6;">
                     <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-inverted-brightness"></svg>
                   </div>
-                  <h2 class="pt-2 color-darkpurple benefits-card-title">Modern Technology and Resources</h3>
+                  <h2 class="pt-2 color-gold benefits-card-title">Modern Technology and Resources</h3>
                   <p class="fs-5 text-start ms-3">Our computer labs are equipped with modern technology and are accessible to you during your studies. You will have free access to Wi-Fi for personal use (in accordance with policy) during your enrolment with us on campus.</p>
                 </div>
               </div>
@@ -300,7 +300,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-white" >
                     <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightblue">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">Flexible Learning</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">Flexible Learning</h3>
                   <p class="fs-5 text-start ms-3">We provide flexible study options and, where possible, schedule daytime, evening and weekend classes to meet the all of your needs. All scheduled classes are face-to-face classroom based on the campus.</p>
                 </div>
               </div>
@@ -309,7 +309,7 @@
                   <div class="benefits-card-img mx-auto d-block bg-darkblue" >
                     <img src="svg/Vector Header-19.svg" class="benefits-card-img svg-inverted-brightness">
                   </div>
-                  <h2 class="pt-4 color-darkpurple benefits-card-title">Student Support Services</h3>
+                  <h2 class="pt-4 color-gold benefits-card-title">Student Support Services</h3>
                   <p class="fs-5 text-start ms-3">Our Student Support Services strive to provide the very best welfare and academic support for you. With our commitment to ensuring a personalised service that meets your needs, our staff interact with you when you need. You can make appointments to receive the support you are seeking.</p>
                 </div>
               </div>
@@ -337,8 +337,8 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-6 mt-5">
-            <h2 class="color-lightpurple pt-5">Why USG</h2>
-            <h1 class="color-darkpurple py-2" >What Makes USG Different</h2>
+            <h2 class="color-lightgold pt-5">Why USG</h2>
+            <h1 class="color-gold py-2" >What Makes USG Different</h2>
             <p class="fs-5">At USG, we combine practical, industry-focused training with comprehensive student support services 
               designed specifically for international students. U
               nlike traditional institutions, we provide hands-on learning experiences, 
@@ -364,8 +364,8 @@
             <img src="svg/Vector Header-10.png" alt="Support illustration" class="img-fluid" style="max-height: 600px;">
           </div>
           <div class="col-md-8 ">
-            <h2 class="color-lightpurple pt-5">Why Australia</h2>
-            <h1 class="color-darkpurple py-2" >Why Study in Australia?</h2>
+            <h2 class="color-lightgold pt-5">Why Australia</h2>
+            <h1 class="color-gold py-2" >Why Study in Australia?</h2>
 
             	<p class="fs-5">
                 Australia is one of the world’s leading destinations for international education, offering students a unique combination of academic excellence, cultural diversity, and lifestyle opportunities. With globally recognized qualifications and a strong reputation for high-quality education, studying in Australia opens doors to worldwide career prospects.<br />
@@ -379,7 +379,7 @@
                 Studying in Australia is not just about gaining a qualification—it’s about building a global future with knowledge, skills, and unforgettable experiences.</p>
           </div>
           <div class="col-md-12 px-5">
-            <h1 class="color-darkpurple py-2" >Why Study in Melbourne?</h2>
+            <h1 class="color-gold py-2" >Why Study in Melbourne?</h2>
             <p class="fs-5">
               Melbourne is one of the world’s most popular study destinations, renowned for its high-quality education, vibrant culture, and welcoming environment for international students. The city is home to top-ranked universities, TAFEs, and private colleges that offer globally recognised qualifications across diverse fields of study.<br />
               As Australia’s cultural capital, Melbourne offers a dynamic lifestyle filled with art, music, festivals, and a thriving food scene influenced by its multicultural community. The city is also known for its excellent public transport, safety, and student-friendly services.<br />
@@ -574,7 +574,7 @@
 
   <section class="pb-5">
     <div class="container text-center">
-      <h2 class="color-darkpurple text-center">Company Milestones</h2>
+      <h2 class="color-gold text-center">Company Milestones</h2>
       <p>A journey of growth, innovation, and commitment to excellence in vocational education</p>
       <img src="/images/usg-milestone1.png" alt="Usg History" class="img-fluid">
     </div>

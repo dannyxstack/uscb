@@ -56,7 +56,7 @@
     <div class="container">
       <div class="row pt-5 pb-3">
         <div class="col-md-6">
-          <h1 class="color-darkpurple">Agent List</h1>
+          <h1 class="color-gold">Agent List</h1>
         </div>
         <div class="col-md-6 text-end">
           <a href="https://form.jotform.com/252581213016043" class="btn color-white bg-darkpurple rounded-5 fs-4">Become an Agent</a>

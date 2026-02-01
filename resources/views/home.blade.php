@@ -14,7 +14,7 @@
     <div class="container py-5">
       <h1 class="color-white">
         DISCOVER WHAT YOU <br>
-        CAN <span class="color-lightblue">ACHIEVE</span>
+        CAN <span class="color-black">ACHIEVE</span>
       </h1>
       <div class="text-start">
         <a href="/allcourses" class="btn btn-lg footer-start-here-btn fs-4 mt-3">Start now</a>
@@ -24,7 +24,7 @@
     </div>
   </section>
 
-  <section class="bg-darkpurple">
+  <section class="bg-black">
     <div class="bg-white-round-right-bottom">
       <div class="container">
         <div class="row text-center">
@@ -32,8 +32,8 @@
         </div>
         <div class="row ">
           <div class="col-md-12" style="padding-top: 100px;">
-            <h2 class="color-lightblue">Start Exploring</h2>
-            <p class="fs-3">Discover the full range of courses at United Skills College of Health</p>
+            <h2 class="color-gold">Start Exploring</h2>
+            <p class="fs-3">Discover the full range of courses at United Skills College of Hospitality</p>
             <p class="fs-4">Your educational path begins here, find the perfect course for you.</p>
           </div>
         </div>
@@ -243,7 +243,7 @@
   </section>
 
   <section class="bg-white">
-    <div class="bg-darkpurple-round-left-bottom">
+    <div class="bg-darkgrey-round-left-bottom">
 
     <div class="container py-5 color-white">
       <h1 class="py-5 text-center">Why Us</h1>
@@ -291,7 +291,7 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-12 mt-5 px-5">
-            <h2 class="color-darkpurple pt-5">Our Campus</h2>
+            <h2 class="color-gold pt-5">Our Campus</h2>
             <p class="fs-4">Our campus provides diverse elements like learning spaces (libraries, labs, theaters), health/wellness centers (clinics, gyms, gardens), cultural spots (galleries, museums, outdoor venues), social hubs (cafes, student centers, quads), and specialized facilities (farms, aviation centers, art studios).</p>
           </div>
         </div>
@@ -423,7 +423,7 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-4 mt-5 px-5">
-            <h2 class="color-darkpurple pt-5 fs-1">Partner Companies</h2>
+            <h2 class="color-gold pt-5 fs-1">Partner Companies</h2>
           </div>
           <div class="col-md-8 mt-5 px-5 fs-4">
             <p>Partnerships between higher-education institutions and employers can be invaluable for helping businesses respond to growing talent needs and cutting training costs.

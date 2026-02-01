@@ -40,9 +40,9 @@ table {
   <section class="py-5">
     <div class="container">
       <div class="row">
-        <h1 class="text-center color-darkpurple">2026 Promotional Course Prices</h1>
+        <h1 class="text-center color-gold">2026 Promotional Course Prices</h1>
 
-        <h2 class="color-darkpurple">Business Courses</h2>
+        <h2 class="color-gold">Business Courses</h2>
       <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -109,7 +109,7 @@ table {
   </tr>
 </table>
 
-<h2 class="color-darkpurple">Childcare Courses</h2>
+<h2 class="color-gold">Childcare Courses</h2>
 <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -140,7 +140,7 @@ table {
   </tr>
 </table>
 
-<h2 class="color-darkpurple">Community Services Courses</h2>
+<h2 class="color-gold">Community Services Courses</h2>
 <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -180,7 +180,7 @@ table {
   </tr>
 </table>
 
-<h2 class="color-darkpurple">Automative Courses</h2>
+<h2 class="color-gold">Automative Courses</h2>
 <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -211,7 +211,7 @@ table {
   </tr>
 </table>
 
-<h2 class="color-darkpurple">English Courses</h2>
+<h2 class="color-gold">English Courses</h2>
 <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -239,7 +239,7 @@ table {
   </tr>
 </table>
 
-<h2 class="color-darkpurple">Hospitality Courses</h2>
+<h2 class="color-gold">Hospitality Courses</h2>
 <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -280,7 +280,7 @@ table {
 </table>
 
 
-<h2 class="color-darkpurple">Business Courses (College of Hospitality)</h2>
+<h2 class="color-gold">Business Courses (College of Hospitality)</h2>
 <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -320,7 +320,7 @@ table {
   </tr>
 </table>
 
-<h2 class="color-darkpurple">Community Services Courses (College of Hospitality)</h2>
+<h2 class="color-gold">Community Services Courses (College of Hospitality)</h2>
 <table>
   <tr>
     <th style="width:32%">Course Name</th>
@@ -350,7 +350,7 @@ table {
       <div class="row"></div>
       <div class="row">
         <div class="col-md-6 py-3">
-          <h2 class="color-darkpurple fw-bold">Enjoy exclusive partnership discounts and begin your learning journey!</h2>
+          <h2 class="color-gold fw-bold">Enjoy exclusive partnership discounts and begin your learning journey!</h2>
           <p></p>
           <p class="fs-5">All course prices shown on this page are special discounted prices offered jointly by our university and our partner institutions, 
               aiming to help more international students access high-quality Australian education at a more affordable cost. <br>

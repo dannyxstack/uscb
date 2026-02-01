@@ -66,7 +66,7 @@
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
           <h5 class="color-lightpurple fs-4">Find An Agent</h5>
-          <h2 class="color-darkpurple fs-1">Become An Agent <br> Representative!</h2>
+          <h2 class="color-gold fs-1">Become An Agent <br> Representative!</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="fs-5 mt-3">We are always looking to establish new relationships with representatives. If you would like to apply to become an authorised agent with us, please complete the below enquiry form to register and include the following documentation.</p>
           <p class="mt-5"></p>

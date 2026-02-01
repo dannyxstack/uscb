@@ -101,7 +101,7 @@ th {
   </tbody>
 </table>
 
-<h1 class="text-center color-darkpurple"> 2026 ACADEMIC CALENDAR</h1>
+<h1 class="text-center color-gold"> 2026 ACADEMIC CALENDAR</h1>
 <h2 class="text-center">Busness Courses 2026</h2>
 <table>
   <thead>
@@ -302,7 +302,7 @@ th {
   </tbody>
 </table>
 
-<h1 class="text-center color-darkpurple"> 2027 ACADEMIC CALENDAR</h1>
+<h1 class="text-center color-gold"> 2027 ACADEMIC CALENDAR</h1>
 <h2 class="text-center">Business Courses 2027</h2>
 <table>
   <thead>
@@ -503,7 +503,7 @@ th {
   </tbody>
 </table>
 
-<h1 class="text-center color-darkpurple"> 2028 ACADEMIC CALENDAR</h1>
+<h1 class="text-center color-gold"> 2028 ACADEMIC CALENDAR</h1>
 <h2 class="text-center">Business Courses 2028</h2>
 <table>
   <thead>
@@ -717,7 +717,7 @@ th {
           <img src="/images/orientation1.png" alt="" class="img-fluid" style="max-height: 600px;border-radius: 20px;" >
         </div>
         <div class="col-md-6">
-          <h2 class="color-darkpurple fw-bold">What to Bring to Your Orientation Day?</h2>
+          <h2 class="color-gold fw-bold">What to Bring to Your Orientation Day?</h2>
           <p class="fs-5">The first step of your enrollment is to attend the Student Orientation day. 
             This is a compulsory requirement to your enrollment and to study in Australia. 
             The date and time will be confirmed over email.
@@ -744,7 +744,7 @@ th {
       <div class="container py-5" style="border-radius: 10px; background-color: #b8e9f1;">
         <div class="row">
           <div class="col-md-6 fs-6 px-4">
-            <span class="color-darkpurple fs-6 fw-bold">Our Facilities</span>
+            <span class="color-gold fs-6 fw-bold">Our Facilities</span>
             <h2 class="color-darkblue fw-bold">MELBOURNE CBD CAMPUS</h2>
             <p>Our Melbourne campus is conveniently located in the heartof the CBD at Level 3, 123 Londales st.</p>
             <p>
@@ -798,7 +798,7 @@ th {
 
           </div>
           <div class="col-md-6 fs-6 px-4">
-            <span class="color-darkpurple fs-6 fw-bold">Study In Australia</span>
+            <span class="color-gold fs-6 fw-bold">Study In Australia</span>
             <h2 class="color-darkblue fw-bold">LIFE IN MELBOURNE</h2>
             <p>There's more to life at Allied Institute than just study. 
               While you are with us you will have a full lifestyle, and with that comes some expenses. 

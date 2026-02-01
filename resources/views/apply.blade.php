@@ -48,7 +48,7 @@
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
           <h5 class="color-lightpurple fs-4">Representative agents</h5>
-          <h2 class="color-darkpurple fs-1">INTERNATIONAL STUDENT</h2>
+          <h2 class="color-gold fs-1">INTERNATIONAL STUDENT</h2>
           <p class="fs-5 mt-3">Please note that international student applications must be submitted through one of our 
             accredited education agents in your region. 
             This ensures you receive proper guidance on visa requirements, course selection, and documentation. 
@@ -74,7 +74,7 @@
 
           <div class="rounded-5 bg-white py-5 px-5" style="margin-top: 80px;">
 
-            <h2 class="color-darkpurple fs-1">DOMESTIC STUDENT</h2>
+            <h2 class="color-gold fs-1">DOMESTIC STUDENT</h2>
             <p class="fs-5 mt-3">Australian citizens, permanent residents, and eligible visa holders can apply 
               directly through our online application system. Have your personal details, 
               academic records, and any required supporting documents ready for a streamlined submission process. 
