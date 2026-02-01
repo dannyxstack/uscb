@@ -29,10 +29,19 @@
   @include('layouts.topbar')
 
   <!-- main content -->
-  <section class="hero text-center section-bg-apply">
-    <div class="container py-5">
-      <h1 class="">Apply Now</h1>
-      <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
+  <section class="hero text-center section-bg-banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 color-white">
+
+          <h1 class="color-white" style="margin-top: 100px;">
+            Apply Now <br>
+          </h1>
+        </div>
+        <div class="col-md-7">
+          <img src="/images/banner4.png" alt="Courses Banner" class="img-fluid rounded-5">
+        </div>
+      </div>
     </div>
   </section>
 
@@ -47,7 +56,7 @@
 
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
-          <h5 class="color-lightpurple fs-4">Representative agents</h5>
+          <h5 class="color-lightgold fs-4">Representative agents</h5>
           <h2 class="color-gold fs-1">INTERNATIONAL STUDENT</h2>
           <p class="fs-5 mt-3">Please note that international student applications must be submitted through one of our 
             accredited education agents in your region. 

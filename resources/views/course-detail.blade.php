@@ -26,9 +26,9 @@
 
 /* active 状态 */
 .custom-tabs .nav-link.active {
-  color: #c785b5;               /* 高亮文字 */
+  color: #bfa96b;               /* 高亮文字 */
   font-weight: 600;
-  border-bottom: 4px solid #c785b5; /* 粗下边框 */
+  border-bottom: 4px solid #bfa96b; /* 粗下边框 */
   background-color: transparent;   /* 去掉白底 */
 }
 
@@ -53,18 +53,18 @@
 
   <!-- main content -->
 
-  <section class="hero text-center section-bg-course">
+  <section class="hero text-center section-bg-banner">
     <div class="container py-5">
       <div class="row">
         <div class="col-md-5 text-start pt-5">
 
-          <div class="color-lightblue fs-4">CRICOS CODE: {{ $course->cricos_code ?? '' }}</div>
-          <div class="color-darkblue fs-1">
+          <div class="color-white fs-4">CRICOS CODE: {{ $course->cricos_code ?? '' }}</div>
+          <div class="color-white fs-1">
           {{ $course->code ?? '' }} {{ $course->name ?? '' }}<br>
           </div>
         </div>
         <div class="col-md-7">
-          <img src="/images/courses/{{ $course->img ?? '' }}" alt="Illustration" class="img-fluid rounded" style="max-height: 600px;">
+          <img src="/images/courses/{{ $course->img ?? '' }}" alt="Illustration" class="img-fluid rounded-5" style="max-height: 600px;">
 
         </div>
       </div>
@@ -497,7 +497,7 @@
       </div>
       <!-- right part -->
       <div class="col-md-2">
-        <div class="bg-lightpurple course-right-card sticky-sidebar fs-5">
+        <div class="bg-lightgold course-right-card sticky-sidebar fs-5">
           <p class=""><b>Cricos Code:</b><br>
           {{ $course->cricos_code }}
           </p>
@@ -529,10 +529,10 @@
   </div>
 
 
-  <section class="py-5 mt-5 bg-lightpurple" >
+  <section class="py-5 mt-5 bg-gold" >
     <div class="container">
-      <h3 class="color-lightblue">Similar Courses</h3>
-      <h2 class="color-darkblue fs-1">Explore more courses?</h2>
+      <h3 class="color-white">Similar Courses</h3>
+      <h2 class="color-white fs-1">Explore more courses?</h2>
 
 
       <!-- Eg. Carousel -->
@@ -546,8 +546,8 @@
               <div class="col-md-3">
                 <div class="card course-pathway-card ps-1 py-2">
                   <div class="card-body">
-                    <h5 class="card-title fs-4 color-lightblue">{{ $courseItem['code'] }}</h5>
-                    <h6 class="card-title fs-3 color-darkblue course-pathway-card-body">{{ $courseItem['name'] }}</h6>
+                    <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
+                    <h6 class="card-title fs-3 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                     <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                   </div>
                 </div>
@@ -564,8 +564,8 @@
             <div class="col-md-3 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{ $courseItem['code'] }}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $courseItem['name'] }}</h6>
+                  <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
+                  <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                   <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                 </div>
               </div>
@@ -581,8 +581,8 @@
               <div class="col-md-3 pe-0">
                 <div class="card course-pathway-card ps-1 py-2">
                   <div class="card-body">
-                    <h5 class="card-title fs-4 color-lightblue">{{ $courseItem['code'] }}</h5>
-                    <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $courseItem['name'] }}</h6>
+                    <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
+                    <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                     <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                   </div>
                 </div>
@@ -599,8 +599,8 @@
               <div class="col-md-3 pe-0">
                 <div class="card course-pathway-card ps-1 py-2">
                   <div class="card-body">
-                    <h5 class="card-title fs-4 color-lightblue">{{ $courseItem['code'] }}</h5>
-                    <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $courseItem['name'] }}</h6>
+                    <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
+                    <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                     <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                   </div>
                 </div>

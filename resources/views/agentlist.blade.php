@@ -22,7 +22,7 @@
 }
 
 .table th {
-  background-color: #f1e1ed;
+  background-color:rgb(241, 240, 225);
 }
 .table {
   border-color: #f1e1ed;
@@ -30,8 +30,8 @@
 
 .table-hover > tbody > tr:hover > td,
 .table-hover > tbody > tr:hover > th {
-    background-color: #f7f2f6 !important;
-    --bs-table-bg-state: #f7f2f6;
+    background-color:rgb(247, 247, 242) !important;
+    --bs-table-bg-state:rgb(247, 247, 242);
 }
 
 </style>
@@ -42,10 +42,19 @@
   @include('layouts.topbar')
 
   <!-- main content -->
-  <section class="hero text-center section-bg-apply">
-    <div class="container py-5">
-      <h1 class="">Agent List</h1>
-      <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
+  <section class="hero text-center section-bg-banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 color-white">
+
+          <h1 class="color-white" style="margin-top: 100px;">
+            Agent List <br>
+          </h1>
+        </div>
+        <div class="col-md-7">
+          <img src="/images/banner3.png" alt="Courses Banner" class="img-fluid rounded-5">
+        </div>
+      </div>
     </div>
   </section>
 

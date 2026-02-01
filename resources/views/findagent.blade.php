@@ -20,15 +20,25 @@
   @include('layouts.topbar')
 
   <!-- main content -->
+
   <section class="hero text-center section-bg-findagent">
-    <div class="container py-5">
-      <h1 class="">Find An Agent</h1>
-      <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 color-white">
+
+          <h1 class="color-white" style="margin-top: 100px;">
+            Find An Agent <br>
+          </h1>
+        </div>
+        <div class="col-md-7">
+          <!-- <img src="/images/banner7.png" alt="Courses Banner" class="img-fluid rounded-5"> -->
+        </div>
+      </div>
     </div>
   </section>
 
   <section class="bg-white">
-    <div class="py-5 bg-lightpurple-round-left-bottom color-white">
+    <div class="py-5 bg-lightgold-round-left-bottom color-white">
 
       <div class="container">
         <div class="row text-center" style="padding-top: 80px;">
@@ -65,7 +75,7 @@
 
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
-          <h5 class="color-lightpurple fs-4">Find An Agent</h5>
+          <h5 class="color-lightgold fs-4">Find An Agent</h5>
           <h2 class="color-gold fs-1">Become An Agent <br> Representative!</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="fs-5 mt-3">We are always looking to establish new relationships with representatives. If you would like to apply to become an authorised agent with us, please complete the below enquiry form to register and include the following documentation.</p>

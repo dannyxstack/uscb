@@ -15,7 +15,7 @@
 table { border-collapse: collapse; margin-bottom: 20px; }
 th, td { border: 0; padding: 8px; text-align: left; }
 table th {
-  background-color: #f1e1ed;
+  background-color:rgb(240, 241, 225); 
 }
 table {
   border-color: #f1e1ed;

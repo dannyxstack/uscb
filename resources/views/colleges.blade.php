@@ -177,13 +177,18 @@ body {
   @include('layouts.topbar')
 
   <!-- main content -->
-  <section class="hero section-bg-campus">
-    <div class="container py-5">
+  <section class="hero text-center section-bg-banner">
+    <div class="container">
       <div class="row">
-        <div class="col-md-4">
-          <h1 class="">Our Colleges</h1>
-          <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
+        <div class="col-md-5 color-white">
+
+          <h1 class="color-white" style="margin-top: 100px;">
+            Our Colleges <br>
+          </h1>
           <p class="fs-5">Unity Skills offers specialized education through our dedicated colleges, each focusing on key industry sectors to provide you with the skills needed for career success.</p>
+        </div>
+        <div class="col-md-7">
+          <img src="/images/banner6.png" alt="Courses Banner" class="img-fluid rounded-5">
         </div>
       </div>
     </div>

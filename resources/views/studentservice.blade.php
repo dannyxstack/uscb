@@ -28,7 +28,7 @@
   </section>
 
   <section class="bg-white">
-    <div class="py-5 bg-lightpurple-round-left-bottom color-white">
+    <div class="py-5 bg-lightgold-round-left-bottom color-white">
 
       <div class="container">
         <div class="row text-center" style="padding-top: 80px;">

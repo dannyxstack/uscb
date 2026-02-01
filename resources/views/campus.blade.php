@@ -92,10 +92,19 @@
   @include('layouts.topbar')
 
   <!-- main content -->
-  <section class="hero text-center section-bg-campus">
-    <div class="container py-5">
-      <h1 class="">Our Campus</h1>
-      <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
+  <section class="hero text-center section-bg-banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 color-white">
+
+          <h1 class="color-white" style="margin-top: 100px;">
+            Our Campus <br>
+          </h1>
+        </div>
+        <div class="col-md-7">
+          <img src="/images/banner5.png" alt="Courses Banner" class="img-fluid rounded-5">
+        </div>
+      </div>
     </div>
   </section>
 
@@ -122,7 +131,7 @@
           </div>
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
-          <h2 class="color-lightpurple">Our Campus</h2>
+          <h2 class="color-lightgold">Our Campus</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="color-gold" style="font-size: 32px;">Melbourne</p>
           <p style="font-size: 20px;">Melbourne offers a world-class education, consistently ranked highly globally for liveability and student experience, boasting top universities like UniMelb & Monash, diverse learning opportunities from K-12 to tertiary, and innovative, future-focused schooling with flexible spaces and advanced tech, making it a premier destination for academic growth and skill development in a vibrant, multicultural city. </p>
@@ -141,13 +150,13 @@
     </div>
   </section>
 
-  <section class="bg-lightpurple">
+  <section class="bg-gold">
     <div class="bg-white-round-left-bottom">
 
     <div class="container">
       <div class="row">
         <div class="col-md-5" style="padding-top: 70px;">
-          <h2 class="color-lightpurple">Unity Skills College of Health</h2>
+          <h2 class="color-lightgold">Unity Skills College of Hospitality</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="color-gold fs-4">RTO Code: 45045 | Cricos: 03946C</p>
           <p class="fs-5">Prepare for meaningful careers in healthcare through our nationally-recognized programs, where you'll gain the practical skills and compassionate approach needed to support individuals and communities at every stage of life.</p>
@@ -249,7 +258,7 @@
   </section>
 
 
-  <section class="bg-lightpurple">
+  <section class="bg-gold">
     <div class="">
 
       <div class="container py-5">

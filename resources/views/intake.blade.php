@@ -15,14 +15,14 @@
 table { border-collapse: collapse; margin-bottom: 20px; }
 th, td { border: 0; padding: 8px; text-align: left; }
 th { 
-  background-color: #f1e1ed; 
+  background-color:rgb(240, 241, 225); 
   font-weight: 700;
 }
 
 .table-hover > tbody > tr:hover > td,
 .table-hover > tbody > tr:hover > th {
-    background-color: #f7f2f6 !important;
-    --bs-table-bg-state: #f7f2f6;
+    background-color:rgb(247, 247, 242) !important;
+    --bs-table-bg-state: rgb(247, 247, 242);
 }
 
 </style>

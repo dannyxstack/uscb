@@ -152,6 +152,14 @@ body {
     text-decoration: none;
   }
 
+  .section-bg-banner {
+    background-image: url('/images/bg-header-banner.png');
+    background-size: cover; /* 覆盖整个区域 */
+    background-position: center; /* 居中显示 */
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+  }
   .section-bg-whyus {
     background-image: url('/images/bg-header-whyus.png');
     background-size: cover; /* 覆盖整个区域 */
@@ -245,10 +253,10 @@ body {
     color: #bf69a8;
   }
   .color-gold {
-    color: #bfa869
+    color: #bfa869;
   }
   .color-lightgold {
-    color: #d6c79e
+    color: #d6c79e;
   }
   .color-black {
     color: black;
@@ -277,6 +285,12 @@ body {
   }
   .bg-gold {
     background-color: #bfa869;
+  }
+  .bg-lightgold {
+    background-color: #d6c79e;
+  }
+  .bg-lightgold2 {
+    background-color: #d1c397;
   }
   .bg-lightblue-campus {
     background-color: #42c3da;
@@ -329,17 +343,33 @@ body {
     background-color: #242424;
     border-bottom-right-radius: 160px;
   }
+  .bg-gold-round-left-bottom {
+    background-color: #bfa869;
+    border-bottom-left-radius: 240px;
+  }
+  .bg-gold-round-right-bottom {
+    background-color: #bfa869;
+    border-bottom-right-radius: 160px;
+  }
+  .bg-lightgold-round-left-bottom {
+    background-color: #d1c397;
+    border-bottom-left-radius: 240px;
+  }
+  .bg-lightgold-round-right-bottom {
+    background-color: #d1c397;
+    border-bottom-right-radius: 160px;
+  }
 
   .btn {
     color: white;
     background-color: #242424;
-    border-color: #242424
+    border-color: #ebebeb
   }
 
   .btn:hover {
     color: white;
     background-color: #3d3d3d;
-    border-color: #3d3d3d;
+    border-color: #ebebeb;
   }
 
 /* grok 自定义轮播指示器 - 胶囊形背景 + 颜色匹配原型 */

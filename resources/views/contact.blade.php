@@ -28,10 +28,19 @@
 
   <!-- main content -->
 
-  <section class="hero text-center section-bg-getintouch">
-    <div class="container py-5">
-      <h1 class="">Get In Touch</h1>
-      <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
+  <section class="hero text-center section-bg-banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 color-white">
+
+          <h1 class="color-white" style="margin-top: 100px;">
+            Get In Touch <br>
+          </h1>
+        </div>
+        <div class="col-md-7">
+          <img src="/images/banner7.png" alt="Courses Banner" class="img-fluid rounded-5">
+        </div>
+      </div>
     </div>
   </section>
 
@@ -40,9 +49,9 @@
       <div class="row">
         <div class="col-md-5" style="padding-top: 100px;">
 
-          <h2 class="color-lightblue">Get In Touch</h2>
+          <h2 class="color-lightgold">Get In Touch</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
-          <p class="color-darkblue fs-1">HOW CAN WE HELP?</p>
+          <p class="color-gold fs-1">HOW CAN WE HELP?</p>
           <div class="fs-4">
 
             <p>At United Skills Group, we understand that choosing the right educational institution is one of the most significant decisions you'll make. That's why we're committed to providing personalized guidance every step of the way. Ready to start your next project with us? Send us a message and we will get back to you as soon as possible!</p>
@@ -106,7 +115,7 @@
   </section>
 
 
-  <section class=" bg-darkblue">
+  <section class=" bg-gold">
     <div class=" bg-white-round-left-bottom">
     <div class="container">
       <div class="row py-5 text-center fs-4">
@@ -156,7 +165,7 @@
   </section>
 
 
-  <section class="bg-darkblue">
+  <section class="bg-gold">
     <div class="">
 
       <div class="container py-5">
@@ -169,14 +178,14 @@
             </div>
           </div>
           <div class="col-md-6 mt-3 ps-5">
-            <p class="color-lightblue fs-4 mb-0">Location</p>
+            <p class="color-white fs-4 mb-0">Location</p>
             <p class="color-white fs-2 mb-0">We're here to help</p>
             <!-- <h1 class="color-white py-2" >Student Support Services</h2> -->
             <p class="color-white fs-5">Welcome to our office. Please sign in at the front desk, and we will be happy to assist you. </p>
             <div class="fs-4 color-white mt-4">
-              <p class=""><i class="fas fa-phone me-1 color-lightblue"></i> +61 3 8637 0343</p>
-              <p class=""><i class="fas fa-envelope me-1 color-lightblue"></i> info@unityskills.edu.au</p>
-              <p class=""><i class="fas fa-map-marker-alt me-1 color-lightblue"></i> <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">Level 3, 123 Lonsdale Street, Melbourne</a></p>
+              <p class=""><i class="fas fa-phone me-1 color-white"></i> +61 3 8637 0343</p>
+              <p class=""><i class="fas fa-envelope me-1 color-white"></i> info@unityskills.edu.au</p>
+              <p class=""><i class="fas fa-map-marker-alt me-1 color-white"></i> <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">Level 3, 123 Lonsdale Street, Melbourne</a></p>
             </div>
           </div>
         </div>

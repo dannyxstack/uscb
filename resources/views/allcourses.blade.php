@@ -10,10 +10,10 @@
 
   <!-- main content -->
 
-  <section class="text-start section-bg-course">
+  <section class="text-start section-bg-banner">
     <div class="container py-5">
       <div class="row">
-        <div class="col-md-6 color-white">
+        <div class="col-md-5 color-white">
 
           <h1 class="color-white" style="margin-top: 100px;">
             ALL COURSES <br>
@@ -24,12 +24,10 @@
             <p>Explore our comprehensive range of nationally-recognized qualifications designed to equip you with industry-relevant skills for today's competitive job market.</p>
           </div>
         </div>
-        <div class="col-md-6">
-          <img src="/svg/Vector Health  website-21.svg" alt="Courses Banner" class="img-fluid rounded-5">
+        <div class="col-md-7">
+          <img src="/images/banner1.png" alt="Courses Banner" class="img-fluid rounded-5">
         </div>
       </div>
-
-      <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
     </div>
   </section>
 
@@ -39,7 +37,7 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-5 pt-5">
-            <h2 class="color-darkblue pt-5 fs-1">Hospitality</h2>
+            <h2 class="color-darkgrey pt-5 fs-1">Hospitality</h2>
             <p class="fs-4">Culinary arts meet professional excellence in our cookery and hospitality courses, where you'll master both kitchen craftsmanship and customer service for global career opportunities.</p>
           </div>
           <div class="col-md-7">
@@ -53,8 +51,8 @@
             <div class="col-md-4 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
+                  <h5 class="card-title fs-4 color-lightgold">{{$course->code}}</h5>
+                  <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $course->name }}</h6>
                   <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
                 </div>
               </div>
@@ -72,7 +70,7 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-5 pt-5">
-            <h2 class="color-darkblue pt-5 fs-1">Cookery</h2>
+            <h2 class="color-darkgrey pt-5 fs-1">Cookery</h2>
             <p class="fs-4">Culinary arts meet professional excellence in our cookery and hospitality courses, where you'll master both kitchen craftsmanship and customer service for global career opportunities.</p>
           </div>
           <div class="col-md-7">
@@ -86,8 +84,8 @@
             <div class="col-md-4 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
+                  <h5 class="card-title fs-4 color-lightgold">{{$course->code}}</h5>
+                  <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $course->name }}</h6>
                   <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
                 </div>
               </div>
@@ -101,10 +99,10 @@
   </section>
   <section class="bg-white" id="aged-care">
     <div class="">
-      <div class="container">
+      <div class="container py-5">
         <div class="row">
           <div class="col-md-5 pt-5">
-            <h2 class="color-darkblue pt-5 fs-1">Aged Care & Community Services</h2>
+            <h2 class="color-darkgrey pt-5 fs-1">Aged Care & Community Services</h2>
             <p class="fs-4">Gain the essential skills and nationally-recognized qualifications to provide meaningful support in aged care and community services, where every day makes a difference in someone's life.</p>
           </div>
           <div class="col-md-7">
@@ -117,8 +115,8 @@
             <div class="col-md-4 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
+                  <h5 class="card-title fs-4 color-lightgold">{{$course->code}}</h5>
+                  <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $course->name }}</h6>
                   <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
                 </div>
               </div>
@@ -140,7 +138,7 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-5 pt-5">
-            <h2 class="color-darkblue pt-5 fs-1">Business and Management</h2>
+            <h2 class="color-darkgrey pt-5 fs-1">Business and Management</h2>
             <p class="fs-4">Develop leadership excellence and strategic vision through our business and management programs, preparing you to drive organizational success in competitive Australian markets.</p>
           </div>
           <div class="col-md-7">
@@ -154,8 +152,8 @@
             <div class="col-md-4 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
+                  <h5 class="card-title fs-4 color-lightgold">{{$course->code}}</h5>
+                  <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $course->name }}</h6>
                   <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
                 </div>
               </div>
@@ -173,7 +171,7 @@
       <div class="container py-5">
         <div class="row">
           <div class="col-md-5 pt-5">
-            <h2 class="color-darkblue pt-5 fs-1">Cookery and Hospitality</h2>
+            <h2 class="color-darkgrey pt-5 fs-1">Cookery and Hospitality</h2>
             <p class="fs-4">Culinary arts meet professional excellence in our cookery and hospitality courses, where you'll master both kitchen craftsmanship and customer service for global career opportunities.</p>
           </div>
           <div class="col-md-7">
@@ -185,8 +183,8 @@
           <div class="col-md-4 pe-0">
             <div class="card course-pathway-card ps-1 py-2">
               <div class="card-body">
-                <h5 class="card-title fs-4 color-lightblue">SIT30821</h5>
-                <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">Certificate III in Commercial Cookery</h6>
+                <h5 class="card-title fs-4 color-lightgold">SIT30821</h5>
+                <h6 class="card-title fs-2 color-gold course-pathway-card-body">Certificate III in Commercial Cookery</h6>
                 <a href="/course/SIT30821" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
               </div>
             </div>
@@ -194,8 +192,8 @@
           <div class="col-md-4 pe-0">
             <div class="card course-pathway-card ps-1 py-2" >
               <div class="card-body">
-                <h5 class="card-title fs-4 color-lightblue">SIT40521</h5>
-                <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">Certificate IV in Kitchen Management</h6>
+                <h5 class="card-title fs-4 color-lightgold">SIT40521</h5>
+                <h6 class="card-title fs-2 color-gold course-pathway-card-body">Certificate IV in Kitchen Management</h6>
                 <a href="/course/SIT40521" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
               </div>
             </div>
@@ -203,8 +201,8 @@
           <div class="col-md-4 pe-0">
             <div class="card course-pathway-card ps-1 py-2" >
               <div class="card-body">
-                <h5 class="card-title fs-4 color-lightblue">SIT50422</h5>
-                <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">Diploma of Hospitality</h6>
+                <h5 class="card-title fs-4 color-lightgold">SIT50422</h5>
+                <h6 class="card-title fs-2 color-gold course-pathway-card-body">Diploma of Hospitality</h6>
                 <a href="/course/SIT50422" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
               </div>
             </div>
@@ -232,8 +230,8 @@
           <div class="col-md-4 pe-0">
             <div class="card course-pathway-card ps-1 py-2">
               <div class="card-body">
-                <h5 class="card-title fs-4 color-lightblue"></h5>
-                <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">General English(GE) Elementary to Upper Intermediate</h6>
+                <h5 class="card-title fs-4 color-lightgold"></h5>
+                <h6 class="card-title fs-2 color-gold course-pathway-card-body">General English(GE) Elementary to Upper Intermediate</h6>
                 <a href="/course/general-english" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
               </div>
             </div>
@@ -241,8 +239,8 @@
           <div class="col-md-4 pe-0">
             <div class="card course-pathway-card ps-1 py-2" >
               <div class="card-body">
-                <h5 class="card-title fs-4 color-lightblue"></h5>
-                <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">English for Academic Purposes(EAP) Intermediate to Advanced</h6>
+                <h5 class="card-title fs-4 color-lightgold"></h5>
+                <h6 class="card-title fs-2 color-gold course-pathway-card-body">English for Academic Purposes(EAP) Intermediate to Advanced</h6>
                 <a href="/course/english-for-academic-purposes" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
               </div>
             </div>
