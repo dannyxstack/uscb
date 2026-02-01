@@ -20,12 +20,22 @@
   @include('layouts.topbar')
 
   <!-- main content -->
-  <section class="hero text-center section-bg-findagent">
-    <div class="container py-5">
-      <h1 class="">Student Services</h1>
-      <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
+  <section class="hero text-center section-bg-banner2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 color-white">
+
+          <h1 class="color-white" style="margin-top: 120px;">
+            Student Services <br>
+          </h1>
+        </div>
+        <div class="col-md-7">
+          <img src="/images/banner8.png" alt="Courses Banner" class="img-fluid rounded-5">
+        </div>
+      </div>
     </div>
   </section>
+
 
   <section class="bg-white">
     <div class="py-5 bg-lightgold-round-left-bottom color-white">

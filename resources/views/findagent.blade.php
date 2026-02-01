@@ -21,17 +21,17 @@
 
   <!-- main content -->
 
-  <section class="hero text-center section-bg-findagent">
+  <section class="hero text-center section-bg-banner2">
     <div class="container">
       <div class="row">
         <div class="col-md-5 color-white">
 
-          <h1 class="color-white" style="margin-top: 100px;">
+          <h1 class="color-white" style="margin-top: 120px;">
             Find An Agent <br>
           </h1>
         </div>
         <div class="col-md-7">
-          <!-- <img src="/images/banner7.png" alt="Courses Banner" class="img-fluid rounded-5"> -->
+          <img src="/images/banner7.png" alt="Courses Banner" class="img-fluid rounded-5">
         </div>
       </div>
     </div>

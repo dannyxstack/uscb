@@ -160,6 +160,14 @@ body {
     width: 100%;
     height: 700px;
   }
+  .section-bg-banner2 {
+    background-image: url('/images/bg-header-banner2.png');
+    background-size: cover; /* 覆盖整个区域 */
+    background-position: center; /* 居中显示 */
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+  }
   .section-bg-whyus {
     background-image: url('/images/bg-header-whyus.png');
     background-size: cover; /* 覆盖整个区域 */
