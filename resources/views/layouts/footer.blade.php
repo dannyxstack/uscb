@@ -14,7 +14,7 @@
         <div class="col-md-3">
           
           <a href="/index" class="navbar-brand">
-            <img src="/images/LOGO_US_Health Landscape-02.s.png" alt="Unity Skills College of Health Logo" height="60">
+            <img src="/images/LOGO_US_Hospitality_Landscape-02.png" alt="Unity Skills College of Hospitality Logo" height="60">
           </a>
         </div>
         <div class="col-md-9">

@@ -4,7 +4,7 @@
       <form id="siteSearchForm" class="search-form d-inline-flex" action="https://www.google.com/search" onsubmit="performSiteSearch(event)">
         <input type="text" id="siteSearchInput" name="q" class="form-control me-2" placeholder="Search...">
         <button type="submit" class="btn btn-light" style="background-color: #ebebeb;">
-          <i class="bi bi-search search-icon" style="color:#42c3da"></i>
+          <i class="bi bi-search search-icon color-gold"></i>
         </button>
       </form>
       <a href="/apply" class="btn btn-apply me-2">APPLY NOW </a>
@@ -15,7 +15,7 @@
   <nav class="navbar navbar-expand-lg shadow-sm sticky-top">
     <div class="container">
       <a class="navbar-brand py-3" href="/">
-        <img src="/images/LOGO_US_Health Landscape-01.s.png" alt="Unity Skills Group Logo" height="60">
+        <img src="/images/LOGO_US_Hospitality_Landscape-01.png" alt="Unity Skills College of Hospitality Logo" height="60">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>

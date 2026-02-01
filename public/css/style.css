@@ -35,13 +35,13 @@ body {
   }
 
   .nav-link {
-    color: #9c649a;
+    color: black;
     font-size: larger;
     /* padding-left: 10px; */
   }
 
   .nav-link:hover {
-    color: #cf8dbd;
+    /* color: #cf8dbd; */
   }
 
   .nav-item {
@@ -51,14 +51,14 @@ body {
 
   
   .dropdown-item {
-    color: #9c649a;
+    color: black;
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: larger;
   }
 
   .dropdown-item:hover {
-    color: #cf8dbd;
+    /* color: #cf8dbd; */
   }
 
   /* Bootstrap Navbar 三级菜单 + hover 打开 */
@@ -136,7 +136,7 @@ body {
     padding: 10px 0;
   }
   .top-bar .btn-apply {
-    background-color: #0dcaf0; /* Greenish from prototype */
+    background-color: #bfa869; /* Greenish from prototype */
     color: var(--white);
   }
   .search-icon {
@@ -150,7 +150,6 @@ body {
   
   a {
     text-decoration: none;
-    color: #9c649a;
   }
 
   .section-bg-whyus {
@@ -162,7 +161,7 @@ body {
   }
 
   .section-bg-home {
-    background-image: url('/images/bg-header-home.png');
+    background-image: url('/images/bg-header-start.png');
     background-size: cover; /* 覆盖整个区域 */
     background-position: center; /* 居中显示 */
     width: 100%;
@@ -245,6 +244,12 @@ body {
   .color-dotpurple {
     color: #bf69a8;
   }
+  .color-gold {
+    color: #bfa869
+  }
+  .color-black {
+    color: black;
+  }
 
 
   .bg-white-left-bottom {
@@ -260,6 +265,15 @@ body {
   }
   .bg-white-color {
     background-color: white;
+  }
+  .bg-white {
+    background-color: white;
+  }
+  .bg-black {
+    background-color: black;
+  }
+  .bg-gold {
+    background-color: #bfa869;
   }
   .bg-lightblue-campus {
     background-color: #42c3da;
@@ -297,6 +311,10 @@ body {
     border-bottom-right-radius: 160px;
   }
 
+  .btn {
+    color: white;
+    background-color: #242424;
+  }
 
 /* grok 自定义轮播指示器 - 胶囊形背景 + 颜色匹配原型 */
 .custom-carousel-indicators {
@@ -320,7 +338,7 @@ body {
 .custom-carousel-indicators [data-bs-target] {
   width: 12px;
   height: 12px;
-  background-color: #bf69a8;
+  background-color: #a6a6a6;
   border-radius: 50%;
   opacity: 1;
   margin: 0; /* 移除默认 margin */
@@ -329,7 +347,7 @@ body {
 
 /* 激活圆点 */
 .custom-carousel-indicators .active {
-  background-color: #9c649a; /* 深蓝（匹配原型中的深色点） */
+  background-color: #3d3d3d; /* 深蓝（匹配原型中的深色点） */
   transform: scale(1.2); /* 稍微放大一点，更突出 */
 }
 

@@ -12,12 +12,12 @@
 
   <section class="hero text-center section-bg-home">
     <div class="container py-5">
-      <h1 class="color-darkblue">
+      <h1 class="color-white">
         DISCOVER WHAT YOU <br>
         CAN <span class="color-lightblue">ACHIEVE</span>
       </h1>
       <div class="text-start">
-        <a href="/allcourses" class="btn btn-primary btn-lg footer-start-here-btn fs-4 mt-3 bg-lightblue">Start now</a>
+        <a href="/allcourses" class="btn btn-lg footer-start-here-btn fs-4 mt-3">Start now</a>
       </div>
 
       <!-- <img src="https://placehold.co/600x400" alt="Illustration" class="img-fluid"> -->
