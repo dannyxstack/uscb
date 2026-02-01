@@ -17,7 +17,7 @@
 
           <h1 class="color-white" style="margin-top: 100px;">
             ALL COURSES <br>
-            At <span class="color-white">Unity Skills College Of Health</span>
+            At <span class="color-white">Unity Skills College Of Hospitality</span>
           </h1>
           <div class="text-start fs-4">
             <!-- <a href="#" class="btn btn-primary btn-lg footer-start-here-btn fs-4 mt-3 bg-darkblue">Start now</a> -->
@@ -33,6 +33,72 @@
     </div>
   </section>
 
+
+  <section class="bg-white" id="hospitality">
+    <div class="">
+      <div class="container py-5">
+        <div class="row">
+          <div class="col-md-5 pt-5">
+            <h2 class="color-darkblue pt-5 fs-1">Hospitality</h2>
+            <p class="fs-4">Culinary arts meet professional excellence in our cookery and hospitality courses, where you'll master both kitchen craftsmanship and customer service for global career opportunities.</p>
+          </div>
+          <div class="col-md-7">
+            <img src="/images/hospitality1.png" alt="Support illustration" class="img-fluid course-pathway-img">
+            <p> </p>
+          </div>
+        </div>
+        <div class="row">
+          @foreach ( $allCourses as $course)
+            @if ($course->class == 'Hospitality')
+            <div class="col-md-4 pe-0">
+              <div class="card course-pathway-card ps-1 py-2">
+                <div class="card-body">
+                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
+                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
+                  <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
+                </div>
+              </div>
+            </div>
+            @endif
+          @endforeach
+        </div>
+      </div>
+ 
+    </div>
+  </section>
+
+  <section class="bg-gold" id="cookery">
+    <div class="">
+      <div class="container py-5">
+        <div class="row">
+          <div class="col-md-5 pt-5">
+            <h2 class="color-darkblue pt-5 fs-1">Cookery</h2>
+            <p class="fs-4">Culinary arts meet professional excellence in our cookery and hospitality courses, where you'll master both kitchen craftsmanship and customer service for global career opportunities.</p>
+          </div>
+          <div class="col-md-7">
+            <img src="/images/cookery1.png" alt="Support illustration" class="img-fluid course-pathway-img">
+            <p> </p>
+          </div>
+        </div>
+        <div class="row">
+          @foreach ( $allCourses as $course)
+            @if ($course->class == 'Cookery')
+            <div class="col-md-4 pe-0">
+              <div class="card course-pathway-card ps-1 py-2">
+                <div class="card-body">
+                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
+                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
+                  <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
+                </div>
+              </div>
+            </div>
+            @endif
+          @endforeach
+        </div>
+      </div>
+ 
+    </div>
+  </section>
   <section class="bg-white" id="aged-care">
     <div class="">
       <div class="container">
@@ -47,7 +113,7 @@
         </div>
         <div class="row my-5">
           @foreach ( $allCourses as $course)
-            @if ($course->class == 'Aged Care and Community Services')
+            @if ($course->class == 'Aged Care and Community Services' && $course->college == 'health,hospitality')
             <div class="col-md-4 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
@@ -68,75 +134,8 @@
     </div>
   </section>
 
-  <section class="bg-lightblue" id="childcare">
-    <div class="">
-      <div class="container  py-5 color-white">
-        <div class="row">
-          <div class="col-md-5 pt-5">
-            <h2 class="pt-5 fs-1">Early Childhood Education</h2>
-            <p class="fs-4">Shape young minds and build foundational futures with our early childhood education courses, where you'll learn to nurture, educate, and inspire the next generation in their most formative years.</p>
-          </div>
-          <div class="col-md-7">
-            <img src="/images/earlychildhood1.png" alt="Support illustration" class="img-fluid course-pathway-img">
-            <p> </p>
-          </div>
-        </div>
-        <div class="row">
-          @foreach ( $allCourses as $course)
-            @if ($course->class == 'Aged Care and Community Services')
-            <div class="col-md-4 pe-0">
-              <div class="card course-pathway-card ps-1 py-2">
-                <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
-                  <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
-                </div>
-              </div>
-            </div>
-            @endif
-          @endforeach
-        </div>
-        <div class="row>">
-          <p></p>
-        </div>
-      </div>
- 
-    </div>
-  </section>
 
-  <section class="bg-darkblue" id="marketing">
-    <div class="">
-      <div class="container py-5 color-white">
-        <div class="row py-5">
-          <div class="col-md-5 pt-5">
-            <h2 class="color-white pt-5 fs-1">Marketing and Communication</h2>
-            <p class="fs-4">Master the art of digital storytelling and strategic communication with our marketing courses, designed to equip you with cutting-edge skills for today's dynamic business landscape.</p>
-          </div>
-          <div class="col-md-7">
-            <img src="/images/marketing1.png" alt="Support illustration" class="img-fluid course-pathway-img">
-          </div>
-        </div>
-        <div class="row">
-          @foreach ( $allCourses as $course)
-            @if ($course->class == 'Marketing and Communication')
-            <div class="col-md-4 pe-0">
-              <div class="card course-pathway-card ps-1 py-2">
-                <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
-                  <a href="https://uscohealth.edu.au/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
-                </div>
-              </div>
-            </div>
-            @endif
-          @endforeach
-        </div>
-      </div>
- 
-    </div>
-  </section>
-
-  <section class="bg-lightblue" id="business">
+  <section class="bg-gold" id="business">
     <div class="">
       <div class="container py-5">
         <div class="row">
@@ -151,13 +150,13 @@
         </div>
         <div class="row">
           @foreach ( $allCourses as $course)
-            @if ($course->class == 'Business and Management')
+            @if ($course->class == 'Business and Management' && $course->college == 'health,hospitality')
             <div class="col-md-4 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
                   <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
                   <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
-                  <a href="https://uscohealth.edu.au/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
+                  <a href="/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
                 </div>
               </div>
             </div>
@@ -169,40 +168,7 @@
     </div>
   </section>
 
-  <section class="bg-white" id="automotive">
-    <div class="">
-      <div class="container py-5">
-        <div class="row">
-          <div class="col-md-5 pt-5">
-            <h2 class="color-darkblue pt-5 fs-1">Automotive</h2>
-            <p class="fs-4">Accelerate your career in Australia's automotive industry with hands-on training in modern vehicle technology, diagnostics, and repair techniques.</p>
-          </div>
-          <div class="col-md-7">
-            <img src="/images/auto2.png" alt="Support illustration" class="img-fluid course-pathway-img">
-            <p> </p>
-          </div>
-        </div>
-        <div class="row">
-          @foreach ( $allCourses as $course)
-            @if ($course->class == 'Automotive')
-            <div class="col-md-4 pe-0">
-              <div class="card course-pathway-card ps-1 py-2">
-                <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightblue">{{$course->code}}</h5>
-                  <h6 class="card-title fs-2 color-darkblue course-pathway-card-body">{{ $course->name }}</h6>
-                  <a href="https://uscohealth.edu.au/course/{{ $course->kname }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-2">Learn More</a>
-                </div>
-              </div>
-            </div>
-            @endif
-          @endforeach
-        </div>
-      </div>
- 
-    </div>
-  </section>
-
-  <section class="bg-lightblue" id="cookery" style="display: none;">
+  <section class="bg-lightblue" id="cookery_and_hospitality" style="display: none;">
     <div class="">
       <div class="container py-5">
         <div class="row">
@@ -249,7 +215,7 @@
     </div>
   </section>
 
-  <section class="bg-darkblue" id="english-courses">
+  <section class="bg-darkblue" id="english-courses" style="display: none;">
     <div class="">
       <div class="container py-5 color-white">
         <div class="row">
