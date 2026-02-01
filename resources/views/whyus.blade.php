@@ -59,14 +59,20 @@
   }
 
 /* grok 替换svg线条颜色为#44c2d9 */
-.svg-color-lightblue {
+.svg-color-gold {
   filter: brightness(0) saturate(100%) invert(66%) sepia(74%) saturate(407%) hue-rotate(143deg) brightness(92%) contrast(84%);
 }
 
-.svg-color-lightpurple {
+.svg-color-gold2 {
   filter: brightness(0) saturate(100%) invert(66%) sepia(25%) saturate(542%) hue-rotate(264deg) brightness(86%) contrast(95%);
 }
 
+.svg-color-gold {
+  filter: brightness(0) saturate(100%) invert(76%) sepia(49%) saturate(337%) hue-rotate(5deg) brightness(83%) contrast(82%);
+}
+.svg-color-gold2 {
+  filter: brightness(0) saturate(100%) invert(84%) sepia(91%) saturate(198%) hue-rotate(321deg) brightness(91%) contrast(82%);
+}
 
 .purple-section {
   position: relative;
@@ -137,7 +143,7 @@
         <div class="col-md-4">
           <div class="benefits-card">
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
-              <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-lightpurple" alt="Cost icon">
+              <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-gold" alt="Cost icon">
             </div>
             <h2 class="pt-4 color-gold benefits-card-title">Cost Effective</h3>
             <p class="fs-5 text-start ms-3">Unity Skills College of Health training courses are cost competitive in the market place. Our pricing structure will provide you with confidence that you are receiving value for money on your investment.</p>
@@ -146,7 +152,7 @@
         <div class="col-md-4">
           <div class="benefits-card">
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
-              <img src="svg/Vector Header-17.svg" class="benefits-card-img svg-color-lightblue">
+              <img src="svg/Vector Header-17.svg" class="benefits-card-img svg-color-gold2">
             </div>
             <h2 class="pt-4 color-gold benefits-card-title">Campuses Easy to Access</h3>
             <p class="fs-5 text-start ms-3">The campus is located in the heart of the Melbourne Central Business District (CBD). Public transport (trains, trams and buses) is accessible to and from the campus 7 days a week. Unity Skills College of Health facilities boast modern classrooms and computer labs, as well as other training facilities that are ideal for you to gain the most out of your study.</p>
@@ -155,7 +161,7 @@
         <div class="col-md-4">
           <div class="benefits-card">
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
-              <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightpurple">
+              <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-gold">
             </div>
             <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
             <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
@@ -164,7 +170,7 @@
         <div class="col-md-4">
           <div class="benefits-card">
             <div class="benefits-card-img mx-auto d-block bg-grey-color">
-              <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-color-lightblue"></svg>
+              <img src="svg/Vector Header-14.svg" class="benefits-card-img svg-color-gold"></svg>
             </div>
             <h2 class="pt-2 color-gold benefits-card-title">Modern Technology and Resources</h3>
             <p class="fs-5 text-start ms-3">Our computer labs are equipped with modern technology and are accessible to you during your studies. You will have free access to Wi-Fi for personal use (in accordance with policy) during your enrolment with us on campus.</p>
@@ -173,7 +179,7 @@
         <div class="col-md-4">
           <div class="benefits-card">
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
-              <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightpurple">
+              <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-gold2">
             </div>
             <h2 class="pt-4 color-gold benefits-card-title">Flexible Learning</h3>
             <p class="fs-5 text-start ms-3">We provide flexible study options and, where possible, schedule daytime, evening and weekend classes to meet the all of your needs. All scheduled classes are face-to-face classroom based on the campus.</p>
@@ -182,7 +188,7 @@
         <div class="col-md-4">
           <div class="benefits-card">
             <div class="benefits-card-img mx-auto d-block bg-grey-color" >
-              <img src="svg/Vector Header-19.svg" class="benefits-card-img svg-color-lightblue">
+              <img src="svg/Vector Header-19.svg" class="benefits-card-img svg-color-gold">
             </div>
             <h2 class="pt-4 color-gold benefits-card-title">Student Support Services</h3>
             <p class="fs-5 text-start ms-3">Our Student Support Services strive to provide the very best welfare and academic support for you. With our commitment to ensuring a personalised service that meets your needs, our staff interact with you when you need. You can make appointments to receive the support you are seeking.</p>
@@ -200,7 +206,7 @@
               <div class="col-md-4">
                 <div class="benefits-card">
                   <div class="benefits-card-img mx-auto d-block bg-white" >
-                    <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-lightblue" alt="Cost icon">
+                    <img src="svg/Vector Header-15.svg" class="benefits-card-img svg-color-gold" alt="Cost icon">
                   </div>
                   <h2 class="pt-4 color-gold benefits-card-title">Cost Effective</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health training courses are cost competitive in the market place. Our pricing structure will provide you with confidence that you are receiving value for money on your investment.</p>
@@ -218,7 +224,7 @@
               <div class="col-md-4">
                 <div class="benefits-card">
                   <div class="benefits-card-img mx-auto d-block bg-white" >
-                    <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightblue">
+                    <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-gold">
                   </div>
                   <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
@@ -241,7 +247,7 @@
               <div class="col-md-4">
                 <div class="benefits-card">
                   <div class="benefits-card-img mx-auto d-block bg-white" >
-                    <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightblue">
+                    <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-gold">
                   </div>
                   <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
@@ -265,7 +271,7 @@
               <div class="col-md-4">
                 <div class="benefits-card">
                   <div class="benefits-card-img mx-auto d-block bg-white" >
-                    <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-lightblue">
+                    <img src="svg/Vector Header-20.svg" class="benefits-card-img svg-color-gold">
                   </div>
                   <h2 class="pt-4 color-gold benefits-card-title">The Academic Staff</h3>
                   <p class="fs-5 text-start ms-3">Unity Skills College of Health trainers and assessors are experienced, enthusiastic and dedicated, they deliver well-prepared and stimulating lessons for the VET training programs. All trainers and assessors hold a Certificate IV in Training and Assessment qualification, together with their academic qualifications and vast experience within the relevant industry.</p>
@@ -283,7 +289,7 @@
               <div class="col-md-4">
                 <div class="benefits-card">
                   <div class="benefits-card-img mx-auto d-block bg-white" >
-                    <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightblue">
+                    <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-gold">
                   </div>
                   <h2 class="pt-4 color-gold benefits-card-title">Flexible Learning</h3>
                   <p class="fs-5 text-start ms-3">We provide flexible study options and, where possible, schedule daytime, evening and weekend classes to meet the all of your needs. All scheduled classes are face-to-face classroom based on the campus.</p>
@@ -306,7 +312,7 @@
               <div class="col-md-4">
                 <div class="benefits-card">
                   <div class="benefits-card-img mx-auto d-block bg-white" >
-                    <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-lightblue">
+                    <img src="svg/Vector Header-16.svg" class="benefits-card-img svg-color-gold">
                   </div>
                   <h2 class="pt-4 color-gold benefits-card-title">Flexible Learning</h3>
                   <p class="fs-5 text-start ms-3">We provide flexible study options and, where possible, schedule daytime, evening and weekend classes to meet the all of your needs. All scheduled classes are face-to-face classroom based on the campus.</p>
