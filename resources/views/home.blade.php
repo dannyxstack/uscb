@@ -38,201 +38,120 @@
           </div>
         </div>
 
-        <!-- 示例：校园图片轮播 -->
-        <div id="courseCarousel1" class="carousel slide text-center">
-          <!-- 轮播图片 -->
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <div class="row  py-2 px-2">
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white shadow-sm">
+        <div class="row pb-5">
+          <div class="col-md-2"></div>
+          <div class="col-md-8">
+            <p class="pb-5"> </p>
 
-                    <div class="img-cover-container">
-                      <a href="/allcourses#business">
-                        <img src="svg/Vector Health  website-05.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#business">
-                        Business
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white shadow-sm">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#automotive">
-                        <img src="svg/Vector Health  website-04.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 pt-3">
-                      <a href="/allcourses#automotive">
-                        Automotive
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white shadow-sm">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#childcare">
-                        <img src="svg/Vector Health  website-02.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#childcare">
-                        Childcare
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white shadow-sm">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#aged-care">
-                        <img src="svg/Vector Health  website-03.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#aged-care">
-                        Community Services
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- 第2页 -->
-            <div class="carousel-item">
-              <div class="row ">
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#automotive">
-                        <img src="svg/Vector Health  website-04.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 pt-3">
-                      <a href="/allcourses#automotive">
-                        Automotive
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#childcare">
-                        <img src="svg/Vector Health  website-02.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#childcare">
-                        Childcare
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#aged-care">
-                        <img src="svg/Vector Health  website-03.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#aged-care">
-                        Community Services
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#cookery">
-                        <img src="svg/Vector Health  website-17.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#cookery">
-                        Cookery & Hospitality
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- 第三页 -->
-            <div class="carousel-item">
-              <div class="row ">
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#childcare">
-                        <img src="svg/Vector Health  website-02.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#childcare">
-                        Childcare
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#aged-care">
-                        <img src="svg/Vector Health  website-03.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#aged-care">
-                        Community Services
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#cookery">
-                        <img src="svg/Vector Health  website-17.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2">
-                      <a href="/allcourses#cookery">
-                        Cookery & Hospitality
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="carousel-img-item bg-white">
-                    <div class="img-cover-container">
-                      <a href="/allcourses#marketing">
-                        <img src="svg/Vector Health  website-19.svg" class="">
-                      </a>
-                    </div>
-                    <div class="fs-2 pt-3">
-                      <a href="/allcourses#marketing">
-                        Marketing & Communication
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+            <!-- 示例：校园图片轮播 -->
+            <div id="courseCarousel1" class="carousel slide text-center">
+              <!-- 轮播图片 -->
+              <div class="carousel-inner color-gold">
+                <div class="carousel-item active">
+                  <div class="row  py-2 px-2">
+                    <div class="col-md-4">
+                      <div class="carousel-img-item bg-white shadow-sm">
 
-          <!-- 自定义指示器（核心部分） -->
-          <div class="carousel-indicators custom-carousel-indicators custom-carousel-bg-white">
-            <button type="button" data-bs-target="#courseCarousel1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#courseCarousel1" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#courseCarousel1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        <div class="img-cover-container">
+                          <a href="/allcourses#business">
+                            <img src="/svg/vector banner hospitality-04.svg" class="">
+                          </a>
+                        </div>
+                        <div class="fs-2">
+                          <a href="/allcourses#business" class="color-gold">
+                            Business
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="carousel-img-item bg-white shadow-sm">
+                        <div class="img-cover-container">
+                          <a href="/allcourses#hospitality">
+                            <img src="/svg/vector banner hospitality-02.svg" class="">
+                          </a>
+                        </div>
+                        <div class="fs-2 pt-3">
+                          <a href="/allcourses#hospitality" class="color-gold">
+                            Hospitality
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="carousel-img-item bg-white shadow-sm">
+                        <div class="img-cover-container">
+                          <a href="/allcourses#aged-care">
+                            <img src="/svg/vector banner hospitality-03.svg" class="">
+                          </a>
+                        </div>
+                        <div class="fs-2">
+                          <a href="/allcourses#aged-care" class="color-gold">
+                            Community Services
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- 第2页 -->
+                <div class="carousel-item">
+                  <div class="row ">
+                    <div class="col-md-4">
+                      <div class="carousel-img-item bg-white shadow-sm">
+                        <div class="img-cover-container">
+                          <a href="/allcourses#hospitality">
+                            <img src="/svg/vector banner hospitality-02.svg" class="">
+                          </a>
+                        </div>
+                        <div class="fs-2 pt-3">
+                          <a href="/allcourses#hospitality" class="color-gold">
+                            Hospitality
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="carousel-img-item bg-white shadow-sm">
+                        <div class="img-cover-container">
+                          <a href="/allcourses#aged-care">
+                            <img src="/svg/vector banner hospitality-03.svg" class="">
+                          </a>
+                        </div>
+                        <div class="fs-2">
+                          <a href="/allcourses#aged-care" class="color-gold">
+                            Community Services
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="carousel-img-item bg-white shadow-sm">
+                        <div class="img-cover-container">
+                          <a href="/allcourses#cookery">
+                            <img src="/images/banner2.png" class="">
+                          </a>
+                        </div>
+                        <div class="fs-2">
+                          <a href="/allcourses#cookery" class="color-gold">
+                            Cookery
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- 自定义指示器（核心部分） -->
+              <div class="carousel-indicators custom-carousel-indicators custom-carousel-bg-white">
+                <button type="button" data-bs-target="#courseCarousel1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#courseCarousel1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              </div>
+            </div>
+
           </div>
+          <div class="col-md-2"></div>
         </div>
 
         <div class="row pb-5"></div>
