@@ -39,9 +39,10 @@ class ContactController extends Controller {
                 'nationality' => $request->nationality,
             ]);
 
-            // 发送邮件通知管理员 ok
+            // 发送邮件通知管理员 ok resend smtp da**b3@gmail.com
             Mail::to('danny.xu@uscohealth.edu.au')
                 ->send(mailable: new ContactNotification($message));
+            
 
             // $resend = Resend::client(env('RESEND_KEY') ?? 're_3JFBzipF_CMZe6ghnt1w3TMQXtQFgEoDE');
 
