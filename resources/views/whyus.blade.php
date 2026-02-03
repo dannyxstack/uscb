@@ -134,7 +134,7 @@
     </div>
   </section>
 
-  <section class="py-5">
+  <section class="py-5" style="display:none;">
     <div class="container text-center">
       <h1 class="color-gold text-center">Company Milestones</h1>
       <p>A journey of growth, innovation, and commitment to excellence in vocational education</p>
