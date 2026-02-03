@@ -49,7 +49,7 @@
       <div class="row">
         <div class="col-md-5" style="padding-top: 100px;">
 
-          <h2 class="color-lightgold">Get In Touch</h2>
+          <h2 class="color-lightgold">Contact Us</h2>
           <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
           <p class="color-gold fs-1">HOW CAN WE HELP?</p>
           <div class="fs-4">
