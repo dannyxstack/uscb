@@ -52,7 +52,9 @@
           </p>
         </div>
         <div class="col-md-6">
-          <img src="/svg/Vector Header-09.svg" alt="" class="img-fluid" style="max-height: 500px;">
+          <div class="" style="max-height: 500px;align-items: center;">
+            <img src="/images/pic3.png" alt="" class="img-fluid rounded-5">
+          </div>
 
         </div>
       </div>
@@ -67,7 +69,9 @@
     <div class="container">
       <div class="row pb-5 fs-5">
         <div class="col-md-6">
-          <img src="/svg/Vector Header-12.svg" alt="" class="img-fluid" style="position: relative;max-height: 500px; top: -40px;">
+          <div class="" style="max-height: 500px;align-items: center;">
+            <img src="/images/pic4.png" alt="" class="img-fluid rounded-5">
+          </div>
 
         </div>
         <div class="col-md-6" style="padding-top: 70px;">

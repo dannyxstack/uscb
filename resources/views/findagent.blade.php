@@ -71,7 +71,9 @@
     <div class="container">
       <div class="row pb-5">
         <div class="col-md-6">
-          <img src="/svg/Vector Health  website-20.svg" alt="" class="img-fluid" style="max-height: 600px;">
+          <div class="" style="max-height: 500px;align-items: center;padding-top: 70px;">
+            <img src="/images/pic1.png" alt="" class="img-fluid rounded-5">
+          </div>
 
         </div>
         <div class="col-md-6" style="padding-top: 70px;">

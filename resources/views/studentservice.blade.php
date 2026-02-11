@@ -76,7 +76,9 @@
     <div class="container">
       <div class="row fs-5">
         <div class="col-md-6">
-          <img src="/svg/Vector Header-09.svg" alt="" class="img-fluid" style="max-height: 500px;">
+          <div class="" style="max-height: 600px;align-items: center;">
+            <img src="/images/pic6.png" alt="" class="img-fluid rounded-5" style="overflow: hidden;max-height: 600px;">
+          </div>
 
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
@@ -118,7 +120,9 @@
           <p></p>
         </div>
         <div class="col-md-6">
-          <img src="/svg/Vector Header-12.svg" alt="" class="img-fluid" style="position: relative;max-height: 500px; top: -40px;">
+          <div class="" style="max-height: 600px;align-items: center;">
+            <img src="/images/pic7.png" alt="" class="img-fluid rounded-5" style="overflow: hidden;max-height: 600px;top: -90px;">
+          </div>
 
         </div>
       </div>

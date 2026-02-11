@@ -52,7 +52,7 @@
           <p>Please note that you are required to complete your address and emergency contact details and to inform Penfold of any changes, as it is a condition of your study visa. Failure to do so is a breach of one of the conditions of your student visa and can result in your visa’s cancellation.</p>
         </div>
         <div class="col-md-6">
-          <img src="/svg/Vector Header-09.svg" alt="" class="img-fluid" style="max-height: 500px;">
+          <img src="/images/pic1.png" alt="" class="img-fluid rounded-5" style="max-height: 500px;padding-top: 70px;">
 
         </div>
       </div>
@@ -67,7 +67,7 @@
     <div class="container">
       <div class="row pb-5 fs-5">
         <div class="col-md-6">
-          <img src="/svg/Vector Header-12.svg" alt="" class="img-fluid" style="position: relative;max-height: 500px; top: -40px;">
+          <img src="/images/pic2.png" alt="" class="img-fluid rounded-5" style="position: relative;max-height: 500px;padding-top: 70px;">
 
         </div>
         <div class="col-md-6" style="padding-top: 70px;">
