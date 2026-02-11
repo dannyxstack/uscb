@@ -184,7 +184,7 @@
             <p class="color-white fs-5">Welcome to our office. Please sign in at the front desk, and we will be happy to assist you. </p>
             <div class="fs-4 color-white mt-4">
               <p class=""><i class="fas fa-phone me-1 color-white"></i> +61 3 8637 0343</p>
-              <p class=""><i class="fas fa-envelope me-1 color-white"></i> info@uscohospitality.edu.au</p>
+              <p class=""><i class="fas fa-envelope me-1 color-white"></i> admissions@uscohospitality.edu.au</p>
               <p class=""><i class="fas fa-map-marker-alt me-1 color-white"></i> <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer" class="color-white">Level 3, 123 Lonsdale Street, Melbourne</a></p>
             </div>
           </div>
