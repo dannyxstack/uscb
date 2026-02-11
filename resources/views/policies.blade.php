@@ -64,20 +64,22 @@
       <div class="row fs-4">
 
         <h3 class="color-gold py-2 fs-2">Policies and Procedures</h3>
-        <p><a href="http://penfold.edu.au/wp-content/uploads/2025/09/PP2.8-Fees-and-Refunds-v3.0.pdf">Fees and Refund Policies and Procedures</a><br>
-        <a href="http://penfold.edu.au/wp-content/uploads/2025/09/PP1.9-Plagiarism-and-AI-v3.0.pdf">Plagiarism and AI Policies and Procedures</a><br>
-        <a href="http://penfold.edu.au/wp-content/uploads/2025/09/PP2.11-Discrimination-and-Harassment-v3.0.pdf">Discrimination and Harassment Policies and Procedures</a><br>
-        <a href="http://penfold.edu.au/wp-content/uploads/2025/09/PP2.9-Complaints-Handling-v3.0.pdf">Complaints and Appeal Policies and Procedures</a><br>
-        <a href="http://penfold.edu.au/wp-content/uploads/2025/09/PP2.2-Enrolment-v3.0.pdf">Enrolment Policies and Procedures</a></p>
+        <p>
+        <a href="/docs/Fees and Refunds Policies and Procedures">Fees and Refund Policies and Procedures</a><br>
+        <a href="/docs/Academic Integrity Policies and Procedures.pdf">Plagiarism and AI Policies and Procedures</a><br>
+        <a href="/docs/Bullying, Discrimination and Harassment Policies and Procedures.pdf">Discrimination and Harassment Policies and Procedures</a><br>
+        <a href="/docs/Complaints and Appeals  Policies and Procedures.pdf">Complaints and Appeal Policies and Procedures</a><br>
+        <a href="/docs/Enrolments Policies and Procedures.pdf">Enrolment Policies and Procedures</a>
+        </p>
         <p></p>
         <hr>
         <h3 class="color-gold py-2 fs-2">Forms</h3>
-        <p><a href="https://form.jotform.com/252428889922068">International and Domestic Student Application form</a><br>
-        <a href="https://form.jotform.com/252528632879066">Student Request Form</a><br>
-        <a href="https://form.jotform.com/252600641106040">Leave Request Form</a><br>
-        <a href="https://form.jotform.com/252600862463051">Deferral, Suspension, and Cancellation form</a><br>
-        <a href="https://form.jotform.com/252601063166045">Withdrawal Form </a><br>
-        <a href="https://form.jotform.com/252470988101054">Fees Refund Request Form</a></p>
+        <p><a href="https://form.jotform.com/252850455284865">International and Domestic Student Application form</a><br>
+        <a href="https://form.jotform.com/253346837646064">Student Request Form</a><br>
+        <a href="https://form.jotform.com/253346889519070">Leave Request Form</a><br>
+        <a href="https://form.jotform.com/253340129089053">Deferral, Suspension, and Cancellation form</a><br>
+        <a href="https://form.jotform.com/253270430535854">Withdrawal Form </a><br>
+        <a href="https://form.jotform.com/253167700372858">Fees Refund Request Form</a></p>
         <p></p>
       </div>
       <div class="row"> 
