@@ -65,7 +65,7 @@
 
         <h3 class="color-gold py-2 fs-2">Policies and Procedures</h3>
         <p>
-        <a href="/docs/Fees and Refunds Policies and Procedures">Fees and Refund Policies and Procedures</a><br>
+        <a href="/docs/Fees and Refunds Policies and Procedures.pdf">Fees and Refund Policies and Procedures</a><br>
         <a href="/docs/Academic Integrity Policies and Procedures.pdf">Plagiarism and AI Policies and Procedures</a><br>
         <a href="/docs/Bullying, Discrimination and Harassment Policies and Procedures.pdf">Discrimination and Harassment Policies and Procedures</a><br>
         <a href="/docs/Complaints and Appeals  Policies and Procedures.pdf">Complaints and Appeal Policies and Procedures</a><br>
