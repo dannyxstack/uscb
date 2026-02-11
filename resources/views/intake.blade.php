@@ -746,7 +746,7 @@ th {
           <div class="col-md-6 fs-6 px-4">
             <span class="color-gold fs-6 fw-bold">Our Facilities</span>
             <h2 class="color-darkblue fw-bold">MELBOURNE CBD CAMPUS</h2>
-            <p>Our Melbourne campus is conveniently located in the heartof the CBD at Level 3, 123 Londales st.</p>
+            <p>Our Melbourne campus is conveniently located in the heartof the CBD at 946 High Street, Reservoir, Victoria 3073.</p>
             <p>
               This new modern, spacious campus features state-of-the-art facilities, including:<br>
               - Multiple classrooms equipped with computers,projectors, screens, and internet access.<br>

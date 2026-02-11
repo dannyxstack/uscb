@@ -173,7 +173,7 @@
           <div class="col-md-6">
             <div class="campus-location-img-box">
               <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">
-                <img src="/images/location2.png" alt="College Location" class="img-fluid campus-location-img" style="max-height: 500px;">
+                <img src="/images/location1.png" alt="College Location" class="img-fluid campus-location-img" style="max-height: 500px;">
               </a>
             </div>
           </div>
@@ -185,7 +185,7 @@
             <div class="fs-4 color-white mt-4">
               <p class=""><i class="fas fa-phone me-1 color-white"></i> +61 3 8637 0343</p>
               <p class=""><i class="fas fa-envelope me-1 color-white"></i> admissions@uscohospitality.edu.au</p>
-              <p class=""><i class="fas fa-map-marker-alt me-1 color-white"></i> <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer" class="color-white">Level 3, 123 Lonsdale Street, Melbourne</a></p>
+              <p class=""><i class="fas fa-map-marker-alt me-1 color-white"></i> <a href="https://maps.app.goo.gl/wBQqgZkAdbLBrDyd9" target="_blank" rel="noopener noreferrer" class="color-white">946 High Street, Reservoir, Victoria 3073</a></p>
             </div>
           </div>
         </div>

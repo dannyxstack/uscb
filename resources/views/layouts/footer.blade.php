@@ -50,7 +50,7 @@
           <h5 class="fs-4" style="text-shadow: 0 0.25rem 0.35rem rgba(191, 168, 105, 0.3);">Get In Touch</h5>
           <p class="mb-2"><i class="fas fa-envelope me-2"></i> admissions@uscohospitality.edu.au</p>
           <p class="mb-2"><i class="fas fa-phone me-2"></i> +61 3 8637 0343</p>
-          <p class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">Level 3, 123 Lonsdale Street, Melbourne</a></p>
+          <p class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> <a href="https://maps.app.goo.gl/wBQqgZkAdbLBrDyd9" target="_blank" rel="noopener noreferrer">946 High Street, Reservoir, Victoria 3073 </a></p>
           <h5 class="mb-3 fs-4">Follow Us</h5>
           <div class="d-flex gap-3 mb-3">
               <a href="https://www.facebook.com/share/1BZMihDCbs/?mibextid=wwXIfr" class="text-white"><i class="fab fa-facebook-f fa-lg"></i></a>
