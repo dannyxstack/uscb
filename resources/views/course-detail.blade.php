@@ -33,10 +33,10 @@
 }
 
 .course-right-card {
-  border-radius: 10px;
-  box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
   padding: 20px;
-
+  /* 右侧悬挂#C0A96A 60% */
+  background-color: rgba(192,169,106, 0.6);
 }
 
 .sticky-sidebar {
@@ -44,13 +44,7 @@
   top: 80px; /* 距离顶部的吸附距离 */
 }
 
-.section-bg-course {
-  background-image: url('/images/bg-header-course-detail.png');
-  background-size: cover; /* 覆盖整个区域 */
-  background-position: center; /* 居中显示 */
-  width: 100%;
-  height: 800px;
-}
+
 .section-bg-course-pathway {
   background-image: url('/images/course-detail2.png');
   background-size: 75%;
@@ -76,6 +70,101 @@
   border-bottom-left-radius: 0.9rem !important;
 }
 
+.banner {
+  position: relative;
+  width: 100%;
+  height: 660px;
+  overflow: hidden;
+}
+
+.banner-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* background-image: url('https://picsum.photos/1920/1080'); */
+  background-image: url('/images/courses/{{ $course->img }};');
+  background-size: cover;
+  background-position: center;
+  /* 核心：正弦波遮罩的SVG路径 */
+  -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M0 0 L0 70 Q 25 110 50 80 T 100 90 L100 0 Z" fill="white" /></svg>');
+  mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M0 0 L0 70 Q 25 110 50 80 T 100 90 L100 0 Z" fill="white" /></svg>');
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+
+.banner-content {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(-30px);
+  color: white;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+  padding: 0 20px;
+}
+
+/* Hospitality的网站颜色参考： 
+
+#AC8E3B，
+#242424，
+#FFFFFF，
+#949494，
+#585858  */
+
+.color-gold {
+  color: #AC8E3B;
+}
+.color-darkblack {
+  color: #242424;
+}
+.color-lightgrey {
+  color: #949494;
+}
+.color-darkgrey {
+  color: #585858;
+}
+
+.course-title {
+  /* 横幅标题的颜色#C0A96A  60% */
+  /* background-color: #9C649B; rgba(156, 100, 155, 0.3)*/
+  background-color: rgba(192,169,106, 0.6); /* ##CF8CBD 半透明0.7 */
+  color: #ffffff;
+  /* opacity: 0.7; */
+  /* display: flex; */
+
+  border-radius: 20px;
+  /* border-color: white; */
+  box-shadow: 0px 2px 2px 2px rgba(250, 250, 250, 0.8);
+  min-height: 250px;
+}
+
+.course-title h1 {
+  font-size: 3.5rem !important;
+}
+
+.course-overview-card {
+  /* 文字背后的浅灰色是#FBFBFB 加100%透明 */
+  background-color: rgba(251,251,251,1.00);
+  border-radius: 25px;
+  /* border-bottom-left-radius: 15px;; */
+  /* padding-left: 60px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 15px; */
+}
+
+.course-detail-card {
+  background-color: rgba(251,251,251,1.00);
+  border-radius: 20px;
+  /* box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.2); */
+  padding: 20px;
+}
+
 </style>
 
 <body>
@@ -85,22 +174,31 @@
 
   <!-- main content -->
 
-  <section class="hero text-center section-bg-banner">
-    <div class="container py-5">
-      <div class="row">
-        <div class="col-md-5 text-start pt-5">
+  <section class="banner" >
+    <div class="banner-bg" style="background-image: url('/images/courses/{{ $course->img }}');"></div>
+    <div class="banner-content">
 
-          <div class="color-white fs-4">CRICOS CODE: {{ $course->cricos_code ?? '' }}</div>
-          <div class="color-white fs-1">
-          {{ $course->code ?? '' }} {{ $course->name ?? '' }}<br>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="course-title text-start px-4 py-4 ">
+              
+                <h1 class="" style="font-weight: 800;">
+                  {{ $course->code ?? '' }} {{ $course->name ?? '' }}<br>
+                </h1>
+              <p>
+                <div class="color-darkblack fs-4 fw-bolder" >CRICOS CODE: {{ $course->cricos_code ?? '' }}</div>
+              </p>
+  
+            </div>
           </div>
-        </div>
-        <div class="col-md-7">
-          <img src="/images/courses/{{ $course->img ?? '' }}" alt="Illustration" class="img-fluid rounded-5" style="max-height: 600px;">
-
+          <div class="col-md-3">
+  
+          </div>
         </div>
       </div>
     </div>
+
   </section>
 
   <div class="container">
@@ -203,57 +301,57 @@
 
         <div class="tab-content">
           
-          <section class="tab-pane fade show active" id="overview">
+        <section class="tab-pane fade show active" id="overview">
             <div class="">
-              <div class="py-5 container">
+              <div class="py-5 container color-darkgrey">
               <div class="row">
-                <div class="col-md-6 py-2" style="padding-right: 0;" >
-                  <div class="mt-5 course-review-card">
-                    <div class="color-lightblue fs-4" style="display:none;">{{ $course->code ?? '' }}</div>
-                    <div class="color-darkblue fs-2">Course overview</div>
-                    <p class="fs-4" >This is {{ $course->name ?? '' }} which enables you to be qualified as a ...</p>
-                    <a href="{{ $course->apply_link }}" class="btn btn-primary btn-lg footer-start-here-btn fs-4 mt-3 bg-darkblue">Start Here</a>
+                <div class="col-md-6" style="" >
+                  <div class="course-overview-card px-5 py-5">
+                    <div class="color-lightblue fs-6 fw-bold" style="">{{ $course->code ?? '' }}</div>
+                    <div class="color-darkblue fs-5 fw-bold">{{$course->name}}</div>
+                    <p class="mt-4 fs-6" >{!! nl2br(e($course->overview )) !!}</p>
+                    <!-- <a href="{{ $course->apply_link }}" class="btn btn-primary btn-lg footer-start-here-btn fs-4 mt-3 bg-darkblue">Start Here</a> -->
                   </div>
-                  <div class="mt-5 px-4 fs-4">
-                    <h2 class="fs-2 color-darkblue mb-2">Assessment Methodology</h2>
+                  <div class="mt-5 px-4 fs-6">
+                    <h2 class="fs-5 color-darkblue mb-2 fw-bold">Assessment Methodology</h2>
                     <div class="mt-3 pt-3">
                     {!! nl2br(e($course->assessment_methodology)) !!}
                     </div>
                   </div>
                 </div>
-                <div class="col-md-6" style="padding-left: 0;">
-                  <div class="course-detail-card fs-4">
+                <div class="col-md-6" >
+                  <div class="course-detail-card fs-6 px-5 py-5">
                     <!-- <h4 class="color-darkblue">{{ $course->code ?? '' }}</h4> -->
-                    <h2 class="color-darkblue">{{ $course->name ?? '' }}</h2>
+                    <div class="color-darkblue fs-5 fw-bold">{{ $course->name ?? '' }}</div>
                     <hr>
-                    <p><span class="color-lightblue">Qualification CRICOS Code:</span> {{ $course->cricos_code ?? '' }}</p>
+                    <p><span class="fw-bold">Qualification CRICOS Code:</span> {{ $course->cricos_code ?? '' }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Qualification Status:</span> {{ $course->status ?? '' }}</p>
+                    <p><span class="fw-bold">Qualification Status:</span> {{ $course->status ?? '' }}</p>
                     <hr>
                     @if (isset($course->aqf_level) && !empty($course->aqf_level))
-                    <p><span class="color-lightblue">AQF Level:</span> {{ $course->aqf_level ?? '' }}</p>
+                    <p><span class="fw-bold">AQF Level:</span> {{ $course->aqf_level ?? '' }}</p>
                     @endif
                     <hr>
-                    <p><span class="color-lightblue">Mode of Delivery:</span> {{ $course->mode_of_delivery ?? '' }}</p>
+                    <p><span class="fw-bold">Mode of Delivery:</span> {{ $course->mode_of_delivery ?? '' }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Total Core Units:</span> {{ $course->total_core_units ?? '' }}</p>
+                    <p><span class="fw-bold">Total Core Units:</span> {{ $course->total_core_units ?? '' }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Total Electives Units:</span> {{ $course->total_electives_units ?? '' }}</p>
+                    <p><span class="fw-bold">Total Electives Units:</span> {{ $course->total_electives_units ?? '' }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Placement:</span> {{ $course->placement ?? '' }}</p>
+                    <p><span class="fw-bold">Placement:</span> {{ $course->placement ?? '' }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Location of course:</span>  {{ $course->location ?? '' }}</p>
+                    <p><span class="fw-bold">Location of course:</span>  {{ $course->location ?? '' }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Total Course Duration:</span>  {{ $course->duration ?? '' }}</p>
+                    <p><span class="fw-bold">Total Course Duration:</span>  {{ $course->duration ?? '' }}</p>
                     <hr>
                     @if (isset($course->course_fees) && !empty($course->course_fees))
-                    <p><span class="color-lightblue">Total Course Fee:</span> AUD {{ number_format($course->course_fees['total']) }}</p>
+                    <p><span class="fw-bold">Total Course Fee:</span> AUD {{ number_format($course->course_fees['total']) }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Tuition Fee:</span> AUD {{ number_format($course->course_fees['tuition']) }}</p>
+                    <p><span class="fw-bold">Tuition Fee:</span> AUD {{ number_format($course->course_fees['tuition']) }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Material Fee:</span> AUD {{ number_format($course->course_fees['material']) }}</p>
+                    <p><span class="fw-bold">Material Fee:</span> AUD {{ number_format($course->course_fees['material']) }}</p>
                     <hr>
-                    <p><span class="color-lightblue">Application Fee:</span> AUD {{ number_format($course->course_fees['application']) }} (Non-refundable)</p>
+                    <p><span class="fw-bold">Application Fee:</span> AUD {{ number_format($course->course_fees['application']) }} (Non-refundable)</p>
                     @endif
                   </div>
                 </div>
@@ -264,7 +362,6 @@
 
             </div>
           </section>
-
 
           <section class="course-requirement-gray-bg tab-pane fade" id="entryreq">
 

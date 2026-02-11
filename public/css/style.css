@@ -363,8 +363,27 @@
     height: 800px;
   }
 
+/* Hospitality的网站颜色参考： 
 
-  .color-darkblue {
+#AC8E3B，
+#242424，
+#FFFFFF，
+#949494，
+#585858  */
+.color-gold {
+  color: #AC8E3B;
+}
+.color-darkblack {
+  color: #242424;
+}
+.color-lightgrey {
+  color: #949494;
+}
+.color-darkgrey {
+  color: #585858;
+}
+
+.color-darkblue {
     color: #4059a8;
   }
   .color-lightblue {
@@ -400,9 +419,9 @@
   .color-dotpurple {
     color: #bf69a8;
   }
-  .color-gold {
+  /* .color-gold {
     color: #bfa869;
-  }
+  } */
   .color-lightgold {
     color: #d6c79e;
   }
@@ -722,21 +741,6 @@
   font-weight: bold;
 }
 
-.course-review-card {
-  background-color: #f8f8f8;
-  border-top-left-radius: 15px;
-  border-bottom-left-radius: 15px;;
-  padding-left: 60px;
-  padding-right: 40px;
-  padding-top: 10px;
-  padding-bottom: 15px;
-}
-
-.course-detail-card {
-  border-radius: 20px;
-  box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.2);
-  padding: 20px;
-}
 
 .course-requirement-box {
   background-color: white;
