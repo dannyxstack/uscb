@@ -39,7 +39,7 @@
           </h1>
         </div>
         <div class="col-md-7">
-          <img src="/images/Apply-now.png" alt="Courses Banner" class="img-fluid rounded-5">
+          <img src="/images/Apply-now.png" alt="Apply Now Banner" class="img-fluid rounded-5" style="position: relative;max-height: 100%;top: -100px;">
         </div>
       </div>
     </div>
