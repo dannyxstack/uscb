@@ -42,7 +42,7 @@
   @include('layouts.topbar')
 
   <!-- main content -->
-  <section class="hero text-center section-bg-banner">
+  <section class="hero section-bg-banner">
     <div class="container">
       <div class="row">
         <div class="col-md-5 color-white">
@@ -52,7 +52,7 @@
           </h1>
         </div>
         <div class="col-md-7">
-          <img src="/images/Agent-list.png" alt="Courses Banner" class="img-fluid rounded-5">
+          <img src="/images/Agent-list.png" alt="Agent List Banner" class="img-fluid rounded-5" style="position: relative;max-height: 100%;top: -100px;">
         </div>
       </div>
     </div>
