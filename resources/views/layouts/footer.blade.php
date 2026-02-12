@@ -67,6 +67,7 @@
       </div>
     </div>
     <div class="copyright-row text-center py-3">
+      <p class="mb-0">Unity Skills College of Hospitality is owned and operated by Unity Skills Group</p>
       <p class="mb-0">&copy; {{ date('Y') }} Unity Skills College of Hospitality. RTO No. 41480. CRICOS Provider No. 03642G. All rights reserved. </p>
     </div>
   </footer>

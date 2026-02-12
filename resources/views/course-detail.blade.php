@@ -103,11 +103,13 @@
   justify-content: center;
   align-items: center;
   transform: translateY(-30px);
-  color: white;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
   padding: 0 20px;
 }
-
+.banner-title {
+  color: white;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+  margin-top: 20px;
+}
 /* Hospitality的网站颜色参考： 
 
 #AC8E3B，
@@ -183,7 +185,7 @@
           <div class="col-md-9">
             <div class="course-title text-start px-4 py-4 ">
               
-                <h1 class="" style="font-weight: 800;">
+                <h1 class="banner-title" style="font-weight: 800;">
                   {{ $course->code ?? '' }} {{ $course->name ?? '' }}<br>
                 </h1>
               <p>
@@ -643,7 +645,7 @@
           {{ $course->duration }}
           </p>
           <p class=""><b>Next Intake:</b><br>
-          February 2026
+          {{ date('F Y', time()+86400*15) }}
           </p>
 
           @if (isset($course->course_fees) && !empty($course->course_fees))
