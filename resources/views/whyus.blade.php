@@ -128,7 +128,7 @@
           </h1>
         </div>
         <div class="col-md-7">
-          <img src="/images/banner10.png" alt="Courses Banner" class="img-fluid rounded-5">
+          <img src="/images/Why-us.png" alt="Courses Banner" class="img-fluid rounded-5">
         </div>
       </div>
     </div>

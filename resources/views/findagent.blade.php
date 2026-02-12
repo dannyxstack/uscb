@@ -31,7 +31,7 @@
           </h1>
         </div>
         <div class="col-md-7">
-          <img src="/images/banner7.png" alt="Courses Banner" class="img-fluid rounded-5">
+          <img src="/images/Find-an-agent.png" alt="Courses Banner" class="img-fluid rounded-5">
         </div>
       </div>
     </div>
