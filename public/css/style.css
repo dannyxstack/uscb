@@ -805,6 +805,7 @@
 }
 .course-pathway-card-body {
   min-height: 66px;
+  height: 90px;
 }
 
 .course-emp-pathway {

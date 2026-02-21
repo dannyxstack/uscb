@@ -167,6 +167,12 @@
   padding: 20px;
 }
 
+.course-pathway-card-code {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 </style>
 
 <body>
@@ -683,7 +689,7 @@
               <div class="col-md-3">
                 <div class="card course-pathway-card ps-1 py-2">
                   <div class="card-body">
-                    <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
+                    <h5 class="card-title fs-4 color-lightgold course-pathway-card-code">{{ $courseItem['code'] }}</h5>
                     <h6 class="card-title fs-3 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                     <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                   </div>
@@ -701,8 +707,8 @@
             <div class="col-md-3 pe-0">
               <div class="card course-pathway-card ps-1 py-2">
                 <div class="card-body">
-                  <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
-                  <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
+                  <h5 class="card-title fs-4 color-lightgold course-pathway-card-code">{{ $courseItem['code'] }}</h5>
+                  <h6 class="card-title fs-3 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                   <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                 </div>
               </div>
@@ -718,8 +724,8 @@
               <div class="col-md-3 pe-0">
                 <div class="card course-pathway-card ps-1 py-2">
                   <div class="card-body">
-                    <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
-                    <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
+                    <h5 class="card-title fs-4 color-lightgold course-pathway-card-code">{{ $courseItem['code'] }}</h5>
+                    <h6 class="card-title fs-3 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                     <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                   </div>
                 </div>
@@ -736,8 +742,8 @@
               <div class="col-md-3 pe-0">
                 <div class="card course-pathway-card ps-1 py-2">
                   <div class="card-body">
-                    <h5 class="card-title fs-4 color-lightgold">{{ $courseItem['code'] }}</h5>
-                    <h6 class="card-title fs-2 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
+                    <h5 class="card-title fs-4 color-lightgold course-pathway-card-code">{{ $courseItem['code'] }}</h5>
+                    <h6 class="card-title fs-3 color-gold course-pathway-card-body">{{ $courseItem['name'] }}</h6>
                     <a href="/course/{{ $courseItem['code'] }}" class="btn fs-4 bg-lightblue course-pathway-btn color-white mt-4">Learn More</a>
                   </div>
                 </div>
