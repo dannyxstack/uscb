@@ -23,7 +23,7 @@
           <a href="/index" class="navbar-brand">
             <img src="/images/LOGO_US_Hospitality_Landscape-02.png" alt="Unity Skills College of Hospitality Logo" height="60">
           </a>
-          <a href="https://usg-u4amt.kinsta.app/" class="navbar-brand">
+          <a href="https://unityskills.com.au" class="navbar-brand">
             <img src="/images/logo-usg-white.png" alt="Unity Skills Group Logo" style="margin-top: 50px;" height="80">
           </a>
 
@@ -66,8 +66,8 @@
         </div>
       </div>
     </div>
-    <div class="copyright-row text-center py-3">
-      <p class="mb-0">Unity Skills College of Hospitality is owned and operated by Unity Skills Group</p>
-      <p class="mb-0">&copy; {{ date('Y') }} Unity Skills College of Hospitality. RTO No. 41480. CRICOS Provider No. 03642G. All rights reserved. </p>
+    <div class="copyright-row text-center py-2" style="font-size: smaller;">
+      <p class="mt-2 mb-1">Unity Skills College of Hospitality is owned and operated by <a class="color-white" href="https://unityskills.com.au" target="_blank">Unity Skills Group</a></p>
+      <p class="mb-1">&copy; {{ date('Y') }} Unity Skills College of Hospitality. ABN: 11 608 707 115 RTO No. 41480. CRICOS Provider No. 03642G. All rights reserved. </p>
     </div>
   </footer>
