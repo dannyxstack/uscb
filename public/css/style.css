@@ -188,6 +188,7 @@
   .navbar {
     background-color: var(--white);
     --bs-navbar-padding-y: 0 !important; /* Reduce vertical padding */
+    font-size: 90%;
   }
   .navbar-brand {
     font-weight: bold;
@@ -207,13 +208,16 @@
   }
 
   .nav-item {
-    padding-left: 15px;
+    padding-left: 6px;
   }
 
   .nav-link.em {
     /* color:#c1aa6a; */
     font-weight: bold;
     border-bottom: 2px solid #c1aa6a;
+  }
+  .nav-underline {
+    --bs-nav-underline-gap: 0.25rem;
   }
   .dropdown-item.em {
     /* color:#c1aa6a; */
@@ -299,9 +303,13 @@
     background-color: #ebebeb;
     padding: 10px 0;
   }
-  .top-bar .btn-apply {
-    background-color: #bfa869; /* Greenish from prototype */
+  .btn-apply {
+    background-color: #242424; /* Greenish from prototype */
     color: var(--white);
+    border-radius: 25px;
+  }
+  .btn-apply:hover {
+    background-color: #3d3d3d; /* Greenish from prototype */
   }
   .search-icon {
     cursor: pointer;
@@ -636,7 +644,8 @@
 }
 
 .footer-logo-row {
-  margin-top: 130px;
+  height: 130px;
+  /* margin-top: 140px; */
   /* margin-left: 5%; */
   /* margin-right: 5%; */
 }
