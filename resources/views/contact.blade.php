@@ -126,7 +126,7 @@
               <img src="svg/Vector Header-22.svg" class="card-img-top contact-card-img1" alt="..."> 
               <h5 class="card-title color-darkblue fs-4">COURSES</h5>
               <p class="card-text fs-5">We provide detailed information about the course, including admission requirements, teaching methods, and career planning.</p>
-              <a href="/allcourses" class="btn bg-white color-darkblue contact-card-btn fs-4">LEARN MORE</a>
+              <a href="/all-courses" class="btn color-darkblue contact-card-btn fs-4">LEARN MORE</a>
             </div>
           </div>
         </div>
