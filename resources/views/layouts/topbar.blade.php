@@ -99,7 +99,7 @@
           </li>
           <!-- <li class="nav-item"><a class="nav-link" href="/colleges">Colleges</a></li> -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle @if(isset($menu1)&&$menu1=='agent') em @endif" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Education Agents</a>
+            <a class="nav-link dropdown-toggle @if(isset($menu1)&&$menu1=='agent') em @endif" href="#" role="button" aria-expanded="false">Education Agents</a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item @if(isset($title)&&$title=='Agent List') em @endif" href="/agent-list">Agents</a></li>
               <li><a class="dropdown-item @if(isset($title)&&$title=='Find An Agent') em @endif" href="/find-an-agent">Find An Agent</a></li>
@@ -108,7 +108,7 @@
           </li>
 
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle @if(isset($menu1)&&$menu1=='student-experience') em @endif" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Student Experience</a>
+            <a class="nav-link dropdown-toggle @if(isset($menu1)&&$menu1=='student-experience') em @endif" href="#" role="button" aria-expanded="false">Student Experience</a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item @if(isset($title)&&$title=='Enrolment and Orientation') em @endif" href="/enrolment-and-orientation">Enrolment and Orientation</a></li>
               <li><a class="dropdown-item @if(isset($title)&&$title=='Student Services') em @endif" href="/student-services">Student Services</a></li>
