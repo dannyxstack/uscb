@@ -41,6 +41,7 @@ class ContactController extends Controller {
                 'mobile' => $request->mobile,
                 'enquiry_type' => $request->enquiry_type,
                 'nationality' => $request->nationality,
+                'host' => $request->host,
             ]);
 
             // 发送邮件通知管理员 ok resend smtp da**b3@gmail.com
