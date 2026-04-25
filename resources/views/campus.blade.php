@@ -270,11 +270,12 @@
             <p class="color-white fs-5">Our campus is conveniently located in Melbourne's most sought after education precinct within close proximity to all forms of public transport. </p>
           </div>
           <div class="col-md-6">
-            <div class="campus-location-img-box">
-              <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">
+            <iframe class="campus-location-img-frame" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3156.0703170637926!2d145.007638!3d-37.718027299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad645a0fecffc57%3A0xb9391672a3bfa21d!2s946%20High%20St%2C%20Reservoir%20VIC%203073!5e0!3m2!1sen!2sau!4v1777120487262!5m2!1sen!2sau" width="100%" height="100%" style="border:0;border-radius: 30px; min-height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <!-- <div class="campus-location-img-box"> -->
+              <!-- <a href="https://maps.app.goo.gl/xfjuaYD7aieqqX4k6" target="_blank" rel="noopener noreferrer">
                 <img src="/images/location1.png" alt="College Location" class="img-fluid campus-location-img" style="max-height: 500px;">
-              </a>
-            </div>
+              </a> -->
+            <!-- </div> -->
           </div>
         </div>
       </div>
