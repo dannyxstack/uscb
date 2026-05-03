@@ -185,7 +185,7 @@ body {
           <h1 class="color-white" style="margin-top: 100px;">
             Our Colleges <br>
           </h1>
-          <p class="fs-5">Unity Skills offers specialized education through our dedicated colleges, each focusing on key industry sectors to provide you with the skills needed for career success.</p>
+          <p class="fs-5">Unity Skills College of Hospitality offers specialized education through our dedicated colleges, each focusing on key industry sectors to provide you with the skills needed for career success.</p>
         </div>
         <div class="col-md-7">
           <img src="/images/banner6.png" alt="Courses Banner" class="img-fluid rounded-5">
