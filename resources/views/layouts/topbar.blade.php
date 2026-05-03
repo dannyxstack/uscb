@@ -15,7 +15,7 @@
   <nav class="navbar navbar-expand-lg shadow-sm sticky-top">
     <div class="container">
       <a class="navbar-brand py-2" href="/">
-        <img src="/images/LOGO_US_Hospitality_Landscape-01.png" alt="Unity Skills College of Hospitality Logo" height="48">
+        <img src="/images/logo-hospitality-code.png" alt="Unity Skills College of Hospitality Logo" height="64">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>

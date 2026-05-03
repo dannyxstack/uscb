@@ -336,7 +336,7 @@
   </section>
 
   <!-- section partners -->
-  <section class="" style="">
+  <section class="" style="display:none;">
     <div class="">
 
       <div class="container py-5">
