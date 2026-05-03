@@ -23,7 +23,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item"><a class="nav-link @if(isset($menu1)&&$menu1=='home') em @endif" href="/index">Home</a></li>
-          <li class="nav-item"><a class="nav-link @if(isset($menu1)&&$menu1=='why-us') em @endif" href="/why-us">Why Us</a></li>
+          <li class="nav-item"><a class="nav-link @if(isset($menu1)&&$menu1=='why-us') em @endif" href="/why-us">About Us</a></li>
           <li class="nav-item dropdown">
             <!-- 1-2 layer -->
             <a class="nav-link dropdown-toggle @if(isset($menu1)&&$menu1=='all-courses') em @endif" href="/all-courses" >Courses</a>
@@ -108,7 +108,7 @@
           </li>
 
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle @if(isset($menu1)&&$menu1=='student-experience') em @endif" href="#" role="button" aria-expanded="false">Student Experience</a>
+            <a class="nav-link dropdown-toggle @if(isset($menu1)&&$menu1=='student-experience') em @endif" href="#" role="button" aria-expanded="false">Students</a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item @if(isset($title)&&$title=='Enrolment and Orientation') em @endif" href="/enrolment-and-orientation">Enrolment and Orientation</a></li>
               <li><a class="dropdown-item @if(isset($title)&&$title=='Student Services') em @endif" href="/student-services">Student Services</a></li>

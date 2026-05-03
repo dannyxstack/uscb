@@ -56,7 +56,7 @@
               <li>Handling student enquiries about course timetables, classroom arrangements, facilities and hospitality of Unity Skills College of Hospitality.</li>
               <li>Organising student orientation.</li>
               <li>Receiving student complaints and referring complaints to the RTO Manager.</li>
-              <li>Providing students with information about&nbsp;Unity Skills College&nbsp;attendance and course progress requirements.</li>
+              <li>Providing students with information about&nbsp;Unity Skills College of Hospitality&nbsp;attendance and course progress requirements.</li>
               <li>Assisting students regarding WHS matters (advising the availability of sick bay and first aid kit).</li>
               <li>Providing information to students related to requests for leave, changes to courses and cancellations, and forwarding the request to the Admissions Manager for processing where relevant.</li>
             </ul>
@@ -99,37 +99,6 @@
     </div>
   </section>
 
-  <section class="">
-    <div class="">
-
-    <div class="container">
-      <div class="row pb-5 fs-5">
-        <div class="col-md-6" style="padding-top: 70px;">
-          <!-- <p class="pt-5"></p> -->
-          <h2 class="color-gold fs-1">Student Welfare Counsellor</h2>
-          <!-- <p class="color-darkblue" style="font-size: 32px;">Discover the unique advantages that make USG the preferred choice for students seeking quality education and career success</p> -->
-          <p class="fs-5 mt-3">The Student Welfare Counsellor is available for all Unity Skills College of Hospitality students and provides counselling based on appointment.</p>
-          <p class="fs-5">Students can contact the Student Welfare Counsellor via email (info@unityskills.com.au) for consultation on:</p>
-          <ul>
-            <li>Stress due to study</li>
-            <li>Learning difficulties</li>
-            <li>Physical and mental problems that affect their study and life and</li>
-            <li>Advice on student workplace issues</li>
-          </ul>
-          <p class="mt-5"></p>
-          <p></p>
-        </div>
-        <div class="col-md-6">
-          <div class="" style="max-height: 600px;align-items: center;">
-            <img src="/images/pic7.png" alt="" class="img-fluid rounded-5" style="overflow: hidden;max-height: 600px;top: -90px;">
-          </div>
-
-        </div>
-      </div>
-      </div>
-
-    </div>
-  </section>
 
 
 
