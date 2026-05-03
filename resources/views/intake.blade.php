@@ -19,7 +19,7 @@ table {
 }
 th, td { 
   border: 1px solid white !important;
-  /* border-color: white !important; */
+  border-color: rgb(241, 240, 225) !important;
   padding: 4px;
   text-align: left; 
 }
@@ -59,12 +59,11 @@ table tr td:first-child {
 
   <section class="py-5">
     <div class="container">
-      <div class="row">
+      <div class="row text-center">
 
       <!-- 2026 -->
 
-<div class="container text-center">
-  <h2 class="text-center color-gold">Intake Dates 2026</h2>
+  <h1 class="text-center color-gold">Intake Dates 2026</h1>
   <table>
     <thead>
       <tr>
@@ -89,7 +88,7 @@ table tr td:first-child {
     </tbody>
   </table>
 
-  <h2 class="text-center color-gold">Intake Dates 2027</h2>
+  <h1 class="text-center color-gold">Intake Dates 2027</h1>
   <table cellpadding="4" cellspacing="0">
     <thead>
       <tr>
@@ -114,7 +113,7 @@ table tr td:first-child {
     </tbody>
   </table>
 
-  <h2 class="text-center color-gold">Intake Dates 2028</h2>
+  <h1 class="text-center color-gold">Intake Dates 2028</h1>
   <table cellpadding="4" cellspacing="0">
     <thead>
       <tr>
@@ -138,7 +137,7 @@ table tr td:first-child {
       <tr><td>BSB50120 Diploma of Business (DOB)</td></tr>
     </tbody>
   </table>
-</div>
+
 
 
       </div>
