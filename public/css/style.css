@@ -676,11 +676,17 @@
 /* footer background image */
 .section-bg-footer {
   background-image: url('/images/bg-footer.png');
-  background-size: cover; /* 覆盖整个区域 */
-  background-position: center; /* 居中显示 */
-  width: 100%;
-  height: 800px;
-  overflow: hidden;
+  /* 关键：宽度撑满100%，高度按比例自动计算 */
+  background-size: 100% auto;
+  /* 从顶部对齐，超出部分（底部）自然裁剪 */
+  background-position: center -220px;
+  background-color: #bfa869;
+  background-repeat: no-repeat;
+  overflow: hidden; 
+  /* width: 100%; */
+  /* min-height: 780px; */
+  /* overflow: hidden; */
+  padding-bottom: 0;
 }
 
 .footer-start-here {
@@ -709,8 +715,17 @@
 .footer-nav-row a:hover {
   text-decoration: underline;
 }
+
 .copyright-row {
   margin-top: 10px;
+}
+
+@media (max-width: 480px) {
+  footer {
+    /* 小屏改为覆盖模式，图片会略微放大填满，保持顶部对齐 */
+    background-size: cover;
+    background-position: top center;
+  }
 }
 
 .campus-img {
