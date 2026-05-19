@@ -76,7 +76,7 @@
           continuing connection to land, sea, culture and community. We pay our respects to Elders past and present.
         </p>
       </div>
-      <p class="mb-1">Unity Skills College of Hospitality is owned and operated by <a class="color-white" href="https://unityskills.com.au" target="_blank">Unity Skills Group</a></p>
+      <p class="mb-1">Unity Skills College of Hospitality is part of <a class="color-white" href="https://unityskills.com.au" target="_blank">Unity Skills Group</a></p>
       <p class="mb-1">&copy; {{ date('Y') }} Unity Skills College of Hospitality. ABN: 11 608 707 115 RTO No. 41480. CRICOS Provider No. 03642G. All rights reserved. </p>
     </div>
   </footer>

@@ -664,7 +664,7 @@
           <a href="{{ $course->apply_link }}" class="btn btn-primary btn-lg footer-start-here-btn fs-5 mt-3 bg-darkblue">Apply now -&gt;</a>
           
           <br>
-          <a href="/contact" class="btn btn-primary btn-lg footer-start-here-btn fs-5 mt-3 bg-darkpurple">Enquery now -&gt;</a>
+          <a href="/contact" class="btn btn-primary btn-lg footer-start-here-btn fs-5 mt-3 bg-darkpurple">Enquire now -&gt;</a>
           
         </div>
       </div>
