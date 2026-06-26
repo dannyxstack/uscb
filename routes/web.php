@@ -109,6 +109,7 @@ Route::get('/colleges', [CourseController::class, 'colleges']);
 Route::get('/allcourses', [CourseController::class, 'index']);
 Route::get('/all-courses', [CourseController::class, 'index']);
 Route::get('/course/{code}', [CourseController::class, 'detail']);
+Route::get('/course-preview/{code}', [CourseController::class, 'preview']);
 
 
 Route::get('/course/chc33021', function () {
