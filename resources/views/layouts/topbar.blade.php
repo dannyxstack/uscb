@@ -33,25 +33,13 @@
               <li><hr class="dropdown-divider"></li>
 
 
-              <li class="dropdown-submenu dropend">
-                <a class="dropdown-item dropdown-toggle @if(isset($course)&&$course->class=='Cookery') em @endif" href="#" role="button" >Cookery</a>
-                <ul class="dropdown-menu">
-                  <li>
-                    @foreach ( $allCourses as $courseItem)
-                      @if ($courseItem->class == 'Cookery' )
-                        <a class="dropdown-item @if(isset($course)&&$course->kname==$courseItem->kname) em @endif" href="/course/{{ $courseItem->kname }}">{{ $courseItem->code }} {{ $courseItem->name }}</a>
-                      @endif
-                    @endforeach
-                  </li>
-                </ul>
-              </li>
 
               <li class="dropdown-submenu dropend">
-                <a class="dropdown-item dropdown-toggle @if(isset($course)&&$course->class=='Hospitality') em @endif" href="#" role="button" >Hospitality</a>
+                <a class="dropdown-item dropdown-toggle @if(isset($course)&&$course->class=='Cookery and Hospitality') em @endif" href="#" role="button" >Cookery and Hospitality</a>
                 <ul class="dropdown-menu">
                   <li>
                     @foreach ( $allCourses as $courseItem)
-                      @if ($courseItem->class == 'Hospitality' )
+                      @if ($courseItem->class == 'Cookery and Hospitality' )
                         <a class="dropdown-item @if(isset($course)&&$course->kname==$courseItem->kname) em @endif" href="/course/{{ $courseItem->kname }}">{{ $courseItem->code }} {{ $courseItem->name }}</a>
                       @endif
                     @endforeach
@@ -86,6 +74,7 @@
                   </li>
                 </ul>
               </li>
+
 
 
 
