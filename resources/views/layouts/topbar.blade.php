@@ -75,6 +75,19 @@
                 </ul>
               </li>
 
+              <li class="dropdown-submenu dropend">
+                <a class="dropdown-item dropdown-toggle @if(isset($course)&&$course->class=='Interpreting and Translating') em @endif" href="#" role="button" >Interpreting and Translating</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    @foreach ( $allCourses as $courseItem)
+                      @if ($courseItem->class == 'Interpreting and Translating' && $courseItem->college == 'hospitality')
+                        <a class="dropdown-item @if(isset($course)&&$course->kname==$courseItem->kname) em @endif" href="/course/{{ $courseItem->kname }}">{{ $courseItem->code }} {{ $courseItem->name }}</a>
+                      @endif
+                    @endforeach
+                  </li>
+                </ul>
+              </li>
+
 
 
 
